@@ -25,7 +25,7 @@ def sig_handler(signum, frame):
 
 signal.signal(signal.SIGSEGV, sig_handler)
 
-from utils import get_DataLoader, get_exp_name, get_model, load_model, save_model, to_tensor, load_item_cate, compute_diversity
+from utils import *
 
 def evaluate_pop(model, test_data, hidden_size, device, topN=20):
     total = 0
@@ -261,7 +261,7 @@ torch.set_printoptions(
 def train(device, train_file, valid_file, test_file, dataset, model_type, item_count, user_count, batch_size, lr, seq_len, 
             hidden_size, interest_num, topN, max_iter, test_iter, decay_step, lr_decay, patience, exp, args):
     
-    exp_name = get_exp_name(dataset, model_type, batch_size, lr, hidden_size, seq_len, interest_num, topN) # 实验名称
+    exp_name = get_exp_name(args) # 实验名称
     best_model_path = "best_model/" + exp_name + '/' # 模型保存路径
 
     # prepare data
@@ -863,7 +863,7 @@ def test(device, test_file, cate_file, dataset, model_type, item_count, user_cou
         print(f"Using fully trained model from fixed path: {best_model_path}")
     else:
         # 使用动态生成的路径
-        exp_name = get_exp_name(dataset, model_type, batch_size, lr, hidden_size, seq_len, interest_num, topN, save=False) # 实验名称
+        exp_name = get_exp_name(args, save=False) # 实验名称
         best_model_path = "best_model/" + exp_name + '/' # 模型保存路径
         print(f"Using model from dynamic path: {best_model_path}")
 
@@ -891,9 +891,9 @@ def test(device, test_file, cate_file, dataset, model_type, item_count, user_cou
 
 
 def output(device, test_file, dataset, model_type, item_count, user_count, batch_size, lr, seq_len, 
-          hidden_size, interest_num, topN, exp='eval'):
+          hidden_size, interest_num, topN, exp='eval', args=None):
     
-    exp_name = get_exp_name(dataset, model_type, batch_size, lr, hidden_size, seq_len, interest_num, topN, save=False) # 实验名称
+    exp_name = get_exp_name(args, save=False) # 实验名称
     best_model_path = "best_model/" + exp_name + '/' # 模型保存路径
     
     # 用相同的命名方式保存embedding

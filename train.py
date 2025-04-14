@@ -132,7 +132,7 @@ if __name__ == '__main__':
     elif args.p == 'output':
         output(device=device, test_file=test_file, dataset=dataset, model_type=args.model_type, item_count=item_count, user_count=user_count,
                 batch_size=batch_size, lr=args.learning_rate, seq_len=seq_len, hidden_size=args.hidden_size, 
-                interest_num=args.interest_num, topN=args.topN, exp=args.exp)
+                interest_num=args.interest_num, topN=args.topN, exp=args.exp, args=args)
     else:
         print('do nothing...')
 

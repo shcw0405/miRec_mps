@@ -1,0 +1,609 @@
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 200, train loss: 8.5289 
+valid recall@20: 0.001838, valid ndcg@20: 0.001289, valid hitrate@20: 0.004450
+valid recall@50: 0.003457, valid ndcg@50: 0.001624, valid hitrate@50: 0.007120
+time interval: 0.1554 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 400, train loss: 8.3843 
+valid recall@20: 0.028869, valid ndcg@20: 0.016641, valid hitrate@20: 0.044497
+valid recall@50: 0.038898, valid ndcg@50: 0.016563, valid hitrate@50: 0.060813
+time interval: 0.3048 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 600, train loss: 8.2086 
+valid recall@20: 0.068407, valid ndcg@20: 0.036929, valid hitrate@20: 0.102047
+valid recall@50: 0.093604, valid ndcg@50: 0.036665, valid hitrate@50: 0.135568
+time interval: 0.4546 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 800, train loss: 8.0085 
+valid recall@20: 0.098229, valid ndcg@20: 0.054612, valid hitrate@20: 0.150697
+valid recall@50: 0.139214, valid ndcg@50: 0.055553, valid hitrate@50: 0.204390
+time interval: 0.6071 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 1000, train loss: 7.7929 
+valid recall@20: 0.119595, valid ndcg@20: 0.066914, valid hitrate@20: 0.183328
+valid recall@50: 0.176183, valid ndcg@50: 0.070414, valid hitrate@50: 0.258380
+time interval: 0.7642 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 1200, train loss: 7.6001 
+valid recall@20: 0.135835, valid ndcg@20: 0.075326, valid hitrate@20: 0.207950
+valid recall@50: 0.199094, valid ndcg@50: 0.079753, valid hitrate@50: 0.289528
+time interval: 0.9135 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 1400, train loss: 7.4225 
+valid recall@20: 0.150266, valid ndcg@20: 0.084045, valid hitrate@20: 0.228419
+valid recall@50: 0.213104, valid ndcg@50: 0.084553, valid hitrate@50: 0.308810
+time interval: 1.0631 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 1600, train loss: 7.2770 
+valid recall@20: 0.158597, valid ndcg@20: 0.088947, valid hitrate@20: 0.240285
+valid recall@50: 0.221777, valid ndcg@50: 0.087928, valid hitrate@50: 0.320380
+time interval: 1.2128 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 1800, train loss: 7.1490 
+valid recall@20: 0.160190, valid ndcg@20: 0.090920, valid hitrate@20: 0.245921
+valid recall@50: 0.230776, valid ndcg@50: 0.090950, valid hitrate@50: 0.333136
+time interval: 1.3619 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 2000, train loss: 7.0390 
+valid recall@20: 0.162584, valid ndcg@20: 0.091979, valid hitrate@20: 0.250371
+valid recall@50: 0.232983, valid ndcg@50: 0.091343, valid hitrate@50: 0.336102
+time interval: 1.5108 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 2200, train loss: 6.9446 
+valid recall@20: 0.166408, valid ndcg@20: 0.092793, valid hitrate@20: 0.254524
+valid recall@50: 0.237042, valid ndcg@50: 0.093724, valid hitrate@50: 0.343518
+time interval: 1.6606 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 2400, train loss: 6.8587 
+valid recall@20: 0.168135, valid ndcg@20: 0.092791, valid hitrate@20: 0.254227
+valid recall@50: 0.239320, valid ndcg@50: 0.096077, valid hitrate@50: 0.348561
+time interval: 1.8098 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 2600, train loss: 6.7859 
+valid recall@20: 0.171543, valid ndcg@20: 0.095369, valid hitrate@20: 0.258974
+valid recall@50: 0.241720, valid ndcg@50: 0.096896, valid hitrate@50: 0.350044
+time interval: 1.9590 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 2800, train loss: 6.7115 
+valid recall@20: 0.172877, valid ndcg@20: 0.095515, valid hitrate@20: 0.263127
+valid recall@50: 0.245879, valid ndcg@50: 0.098018, valid hitrate@50: 0.355681
+time interval: 2.1085 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 3000, train loss: 6.6286 
+valid recall@20: 0.174159, valid ndcg@20: 0.095565, valid hitrate@20: 0.263720
+valid recall@50: 0.249873, valid ndcg@50: 0.099140, valid hitrate@50: 0.358944
+time interval: 2.2578 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 3200, train loss: 6.5646 
+valid recall@20: 0.175154, valid ndcg@20: 0.095785, valid hitrate@20: 0.264610
+valid recall@50: 0.253935, valid ndcg@50: 0.100778, valid hitrate@50: 0.365470
+time interval: 2.4071 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 3400, train loss: 6.5075 
+valid recall@20: 0.175497, valid ndcg@20: 0.096404, valid hitrate@20: 0.265796
+valid recall@50: 0.252637, valid ndcg@50: 0.100409, valid hitrate@50: 0.361614
+time interval: 2.5571 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 3600, train loss: 6.4210 
+valid recall@20: 0.174944, valid ndcg@20: 0.097646, valid hitrate@20: 0.268466
+valid recall@50: 0.253403, valid ndcg@50: 0.100429, valid hitrate@50: 0.362207
+time interval: 2.7044 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 3800, train loss: 6.3492 
+valid recall@20: 0.179213, valid ndcg@20: 0.099702, valid hitrate@20: 0.273509
+valid recall@50: 0.256178, valid ndcg@50: 0.101538, valid hitrate@50: 0.366360
+time interval: 2.8532 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 4000, train loss: 6.2857 
+valid recall@20: 0.182773, valid ndcg@20: 0.102036, valid hitrate@20: 0.278256
+valid recall@50: 0.259952, valid ndcg@50: 0.103030, valid hitrate@50: 0.374370
+time interval: 3.0022 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 4200, train loss: 6.2283 
+valid recall@20: 0.182687, valid ndcg@20: 0.101978, valid hitrate@20: 0.276179
+valid recall@50: 0.260945, valid ndcg@50: 0.103548, valid hitrate@50: 0.374666
+time interval: 3.1516 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 4400, train loss: 6.1413 
+valid recall@20: 0.183567, valid ndcg@20: 0.102083, valid hitrate@20: 0.276772
+valid recall@50: 0.262007, valid ndcg@50: 0.103226, valid hitrate@50: 0.374963
+time interval: 3.3012 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 4600, train loss: 6.0700 
+valid recall@20: 0.185030, valid ndcg@20: 0.103344, valid hitrate@20: 0.280629
+valid recall@50: 0.262719, valid ndcg@50: 0.103872, valid hitrate@50: 0.377039
+time interval: 3.4502 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 4800, train loss: 6.0078 
+valid recall@20: 0.186675, valid ndcg@20: 0.103811, valid hitrate@20: 0.283299
+valid recall@50: 0.265444, valid ndcg@50: 0.104335, valid hitrate@50: 0.375853
+time interval: 3.5991 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 5000, train loss: 5.9164 
+valid recall@20: 0.186810, valid ndcg@20: 0.103252, valid hitrate@20: 0.281519
+valid recall@50: 0.265343, valid ndcg@50: 0.104979, valid hitrate@50: 0.378819
+time interval: 3.7474 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 5200, train loss: 5.8539 
+valid recall@20: 0.189434, valid ndcg@20: 0.104081, valid hitrate@20: 0.284782
+valid recall@50: 0.269435, valid ndcg@50: 0.104812, valid hitrate@50: 0.381786
+time interval: 3.8965 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 5400, train loss: 5.7800 
+valid recall@20: 0.189096, valid ndcg@20: 0.103985, valid hitrate@20: 0.285079
+valid recall@50: 0.270879, valid ndcg@50: 0.105076, valid hitrate@50: 0.382676
+time interval: 4.0460 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 5600, train loss: 5.7076 
+valid recall@20: 0.190875, valid ndcg@20: 0.104367, valid hitrate@20: 0.287155
+valid recall@50: 0.269728, valid ndcg@50: 0.104632, valid hitrate@50: 0.380599
+time interval: 4.1946 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 5800, train loss: 5.6552 
+valid recall@20: 0.194093, valid ndcg@20: 0.105487, valid hitrate@20: 0.291308
+valid recall@50: 0.270296, valid ndcg@50: 0.104542, valid hitrate@50: 0.381786
+time interval: 4.3428 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 6000, train loss: 5.5830 
+valid recall@20: 0.191158, valid ndcg@20: 0.104253, valid hitrate@20: 0.286858
+valid recall@50: 0.272339, valid ndcg@50: 0.106361, valid hitrate@50: 0.385346
+time interval: 4.4920 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 6200, train loss: 5.5088 
+valid recall@20: 0.193668, valid ndcg@20: 0.106283, valid hitrate@20: 0.291012
+valid recall@50: 0.272449, valid ndcg@50: 0.105690, valid hitrate@50: 0.384159
+time interval: 4.6408 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 6400, train loss: 5.4237 
+valid recall@20: 0.196032, valid ndcg@20: 0.107074, valid hitrate@20: 0.291605
+valid recall@50: 0.275810, valid ndcg@50: 0.106307, valid hitrate@50: 0.386236
+time interval: 4.7899 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 6600, train loss: 5.3870 
+valid recall@20: 0.195993, valid ndcg@20: 0.107534, valid hitrate@20: 0.292495
+valid recall@50: 0.278209, valid ndcg@50: 0.106948, valid hitrate@50: 0.391279
+time interval: 4.9393 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 6800, train loss: 5.3210 
+valid recall@20: 0.197205, valid ndcg@20: 0.108119, valid hitrate@20: 0.293088
+valid recall@50: 0.275026, valid ndcg@50: 0.106009, valid hitrate@50: 0.387125
+time interval: 5.0880 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 7000, train loss: 5.2497 
+valid recall@20: 0.196607, valid ndcg@20: 0.108502, valid hitrate@20: 0.293978
+valid recall@50: 0.276632, valid ndcg@50: 0.106816, valid hitrate@50: 0.390389
+time interval: 5.2359 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 7200, train loss: 5.1691 
+valid recall@20: 0.197289, valid ndcg@20: 0.108252, valid hitrate@20: 0.295165
+valid recall@50: 0.278109, valid ndcg@50: 0.106898, valid hitrate@50: 0.391575
+time interval: 5.3839 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 7400, train loss: 5.1451 
+valid recall@20: 0.199937, valid ndcg@20: 0.109280, valid hitrate@20: 0.299911
+valid recall@50: 0.279092, valid ndcg@50: 0.106829, valid hitrate@50: 0.391872
+time interval: 5.5323 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 7600, train loss: 5.0827 
+valid recall@20: 0.198037, valid ndcg@20: 0.107876, valid hitrate@20: 0.295758
+valid recall@50: 0.278391, valid ndcg@50: 0.106565, valid hitrate@50: 0.390685
+time interval: 5.6813 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 7800, train loss: 5.0280 
+valid recall@20: 0.200116, valid ndcg@20: 0.108997, valid hitrate@20: 0.298724
+valid recall@50: 0.273804, valid ndcg@50: 0.106205, valid hitrate@50: 0.389202
+time interval: 5.8297 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 8000, train loss: 4.9586 
+valid recall@20: 0.198036, valid ndcg@20: 0.108426, valid hitrate@20: 0.297538
+valid recall@50: 0.276198, valid ndcg@50: 0.107144, valid hitrate@50: 0.391575
+time interval: 5.9779 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 8200, train loss: 4.9076 
+valid recall@20: 0.197547, valid ndcg@20: 0.108150, valid hitrate@20: 0.297538
+valid recall@50: 0.275200, valid ndcg@50: 0.106921, valid hitrate@50: 0.389499
+time interval: 6.1265 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 8400, train loss: 4.8612 
+valid recall@20: 0.199345, valid ndcg@20: 0.108555, valid hitrate@20: 0.300504
+valid recall@50: 0.275560, valid ndcg@50: 0.106076, valid hitrate@50: 0.388015
+time interval: 6.2748 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 8600, train loss: 4.8104 
+valid recall@20: 0.196785, valid ndcg@20: 0.107730, valid hitrate@20: 0.296055
+valid recall@50: 0.278919, valid ndcg@50: 0.108076, valid hitrate@50: 0.392168
+time interval: 6.4235 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 8800, train loss: 4.7572 
+valid recall@20: 0.200527, valid ndcg@20: 0.108457, valid hitrate@20: 0.298724
+valid recall@50: 0.278436, valid ndcg@50: 0.107535, valid hitrate@50: 0.391575
+time interval: 6.5718 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 9000, train loss: 4.6979 
+valid recall@20: 0.199604, valid ndcg@20: 0.109395, valid hitrate@20: 0.299911
+valid recall@50: 0.278930, valid ndcg@50: 0.107493, valid hitrate@50: 0.390389
+time interval: 6.7190 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 9200, train loss: 4.6738 
+valid recall@20: 0.201152, valid ndcg@20: 0.108675, valid hitrate@20: 0.299911
+valid recall@50: 0.279972, valid ndcg@50: 0.107672, valid hitrate@50: 0.393058
+time interval: 6.8690 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 9400, train loss: 4.6383 
+valid recall@20: 0.201896, valid ndcg@20: 0.108400, valid hitrate@20: 0.298724
+valid recall@50: 0.277750, valid ndcg@50: 0.107271, valid hitrate@50: 0.390982
+time interval: 7.0165 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 9600, train loss: 4.5636 
+valid recall@20: 0.203736, valid ndcg@20: 0.109815, valid hitrate@20: 0.301394
+valid recall@50: 0.278951, valid ndcg@50: 0.108212, valid hitrate@50: 0.393948
+time interval: 7.1650 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 9800, train loss: 4.5396 
+valid recall@20: 0.201108, valid ndcg@20: 0.108957, valid hitrate@20: 0.298131
+valid recall@50: 0.281076, valid ndcg@50: 0.108523, valid hitrate@50: 0.395432
+time interval: 7.3141 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 10000, train loss: 4.5026 
+valid recall@20: 0.202699, valid ndcg@20: 0.109412, valid hitrate@20: 0.301394
+valid recall@50: 0.279683, valid ndcg@50: 0.108083, valid hitrate@50: 0.393355
+time interval: 7.4629 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 10200, train loss: 4.4817 
+valid recall@20: 0.202804, valid ndcg@20: 0.109737, valid hitrate@20: 0.301098
+valid recall@50: 0.282169, valid ndcg@50: 0.108652, valid hitrate@50: 0.395135
+time interval: 7.6119 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 10400, train loss: 4.4312 
+valid recall@20: 0.201287, valid ndcg@20: 0.109860, valid hitrate@20: 0.299318
+valid recall@50: 0.277770, valid ndcg@50: 0.108173, valid hitrate@50: 0.390685
+time interval: 7.7606 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 10600, train loss: 4.3885 
+valid recall@20: 0.202807, valid ndcg@20: 0.110500, valid hitrate@20: 0.302581
+valid recall@50: 0.279238, valid ndcg@50: 0.107871, valid hitrate@50: 0.391872
+time interval: 7.9093 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 10800, train loss: 4.3392 
+valid recall@20: 0.204033, valid ndcg@20: 0.110769, valid hitrate@20: 0.304657
+valid recall@50: 0.279644, valid ndcg@50: 0.108801, valid hitrate@50: 0.393948
+time interval: 8.0585 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 11000, train loss: 4.3032 
+valid recall@20: 0.204212, valid ndcg@20: 0.110802, valid hitrate@20: 0.305547
+valid recall@50: 0.280773, valid ndcg@50: 0.108666, valid hitrate@50: 0.393355
+time interval: 8.2067 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 11200, train loss: 4.2781 
+valid recall@20: 0.205159, valid ndcg@20: 0.110242, valid hitrate@20: 0.303767
+valid recall@50: 0.281249, valid ndcg@50: 0.109365, valid hitrate@50: 0.393948
+time interval: 8.3557 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 11400, train loss: 4.2365 
+valid recall@20: 0.202862, valid ndcg@20: 0.108676, valid hitrate@20: 0.300504
+valid recall@50: 0.281600, valid ndcg@50: 0.109015, valid hitrate@50: 0.393948
+time interval: 8.5042 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 11600, train loss: 4.2157 
+valid recall@20: 0.203153, valid ndcg@20: 0.108999, valid hitrate@20: 0.300208
+valid recall@50: 0.280389, valid ndcg@50: 0.108396, valid hitrate@50: 0.393652
+time interval: 8.6526 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 11800, train loss: 4.1847 
+valid recall@20: 0.204904, valid ndcg@20: 0.109126, valid hitrate@20: 0.303471
+valid recall@50: 0.281699, valid ndcg@50: 0.108871, valid hitrate@50: 0.395728
+time interval: 8.8010 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 12000, train loss: 4.1585 
+valid recall@20: 0.205244, valid ndcg@20: 0.110789, valid hitrate@20: 0.304361
+valid recall@50: 0.279900, valid ndcg@50: 0.108269, valid hitrate@50: 0.392762
+time interval: 8.9495 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 12200, train loss: 4.1149 
+valid recall@20: 0.205907, valid ndcg@20: 0.110409, valid hitrate@20: 0.304361
+valid recall@50: 0.278874, valid ndcg@50: 0.107768, valid hitrate@50: 0.392168
+time interval: 9.0982 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 12400, train loss: 4.0790 
+valid recall@20: 0.206028, valid ndcg@20: 0.111102, valid hitrate@20: 0.306141
+valid recall@50: 0.280559, valid ndcg@50: 0.108935, valid hitrate@50: 0.393652
+time interval: 9.2467 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 12600, train loss: 4.0607 
+valid recall@20: 0.205396, valid ndcg@20: 0.110514, valid hitrate@20: 0.304361
+valid recall@50: 0.280502, valid ndcg@50: 0.108479, valid hitrate@50: 0.394245
+time interval: 9.3952 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 12800, train loss: 4.0405 
+valid recall@20: 0.205637, valid ndcg@20: 0.110677, valid hitrate@20: 0.304064
+valid recall@50: 0.281667, valid ndcg@50: 0.109273, valid hitrate@50: 0.396618
+time interval: 9.5435 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 13000, train loss: 3.9957 
+valid recall@20: 0.206234, valid ndcg@20: 0.111353, valid hitrate@20: 0.304954
+valid recall@50: 0.282496, valid ndcg@50: 0.109356, valid hitrate@50: 0.397212
+time interval: 9.6923 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 13200, train loss: 3.9638 
+valid recall@20: 0.204279, valid ndcg@20: 0.110215, valid hitrate@20: 0.303174
+valid recall@50: 0.280914, valid ndcg@50: 0.108680, valid hitrate@50: 0.394838
+time interval: 9.8410 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 13400, train loss: 3.9766 
+valid recall@20: 0.204723, valid ndcg@20: 0.110700, valid hitrate@20: 0.304361
+valid recall@50: 0.281330, valid ndcg@50: 0.109367, valid hitrate@50: 0.396025
+time interval: 9.9894 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 13600, train loss: 3.9059 
+valid recall@20: 0.205506, valid ndcg@20: 0.112886, valid hitrate@20: 0.307327
+valid recall@50: 0.284048, valid ndcg@50: 0.108959, valid hitrate@50: 0.398101
+time interval: 10.1379 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 13800, train loss: 3.8977 
+valid recall@20: 0.204620, valid ndcg@20: 0.111763, valid hitrate@20: 0.305251
+valid recall@50: 0.283232, valid ndcg@50: 0.109464, valid hitrate@50: 0.396322
+time interval: 10.2871 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 14000, train loss: 3.8940 
+valid recall@20: 0.205393, valid ndcg@20: 0.111621, valid hitrate@20: 0.305844
+valid recall@50: 0.285128, valid ndcg@50: 0.109638, valid hitrate@50: 0.398695
+time interval: 10.4361 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 14200, train loss: 3.8728 
+valid recall@20: 0.205267, valid ndcg@20: 0.111839, valid hitrate@20: 0.304954
+valid recall@50: 0.282271, valid ndcg@50: 0.108902, valid hitrate@50: 0.396322
+time interval: 10.5851 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 14400, train loss: 3.8310 
+valid recall@20: 0.204944, valid ndcg@20: 0.111695, valid hitrate@20: 0.305547
+valid recall@50: 0.282964, valid ndcg@50: 0.108152, valid hitrate@50: 0.396322
+time interval: 10.7336 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 14600, train loss: 3.8111 
+valid recall@20: 0.204542, valid ndcg@20: 0.111809, valid hitrate@20: 0.304657
+valid recall@50: 0.283040, valid ndcg@50: 0.109479, valid hitrate@50: 0.397805
+time interval: 10.8817 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 14800, train loss: 3.7953 
+valid recall@20: 0.203472, valid ndcg@20: 0.111658, valid hitrate@20: 0.305547
+valid recall@50: 0.282179, valid ndcg@50: 0.109069, valid hitrate@50: 0.396618
+time interval: 11.0290 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 15000, train loss: 3.7850 
+valid recall@20: 0.203812, valid ndcg@20: 0.111208, valid hitrate@20: 0.303767
+valid recall@50: 0.280301, valid ndcg@50: 0.108146, valid hitrate@50: 0.394542
+time interval: 11.1784 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 15200, train loss: 3.7558 
+valid recall@20: 0.204219, valid ndcg@20: 0.111399, valid hitrate@20: 0.304954
+valid recall@50: 0.279216, valid ndcg@50: 0.107761, valid hitrate@50: 0.391575
+time interval: 11.3259 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 15400, train loss: 3.7222 
+valid recall@20: 0.202395, valid ndcg@20: 0.110342, valid hitrate@20: 0.301691
+valid recall@50: 0.279651, valid ndcg@50: 0.108869, valid hitrate@50: 0.395135
+time interval: 11.4750 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 15600, train loss: 3.7156 
+valid recall@20: 0.204224, valid ndcg@20: 0.111328, valid hitrate@20: 0.304657
+valid recall@50: 0.280059, valid ndcg@50: 0.108286, valid hitrate@50: 0.394838
+time interval: 11.6232 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 15800, train loss: 3.6731 
+valid recall@20: 0.202849, valid ndcg@20: 0.110870, valid hitrate@20: 0.301098
+valid recall@50: 0.279813, valid ndcg@50: 0.107971, valid hitrate@50: 0.394542
+time interval: 11.7718 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 16000, train loss: 3.6670 
+valid recall@20: 0.204687, valid ndcg@20: 0.111944, valid hitrate@20: 0.304064
+valid recall@50: 0.278427, valid ndcg@50: 0.107835, valid hitrate@50: 0.393058
+time interval: 11.9200 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 16200, train loss: 3.6373 
+valid recall@20: 0.203129, valid ndcg@20: 0.111323, valid hitrate@20: 0.301988
+valid recall@50: 0.278190, valid ndcg@50: 0.107926, valid hitrate@50: 0.394838
+time interval: 12.0684 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 16400, train loss: 3.6169 
+valid recall@20: 0.202126, valid ndcg@20: 0.110828, valid hitrate@20: 0.301691
+valid recall@50: 0.280536, valid ndcg@50: 0.108346, valid hitrate@50: 0.396618
+time interval: 12.2175 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 16600, train loss: 3.5846 
+valid recall@20: 0.203902, valid ndcg@20: 0.111714, valid hitrate@20: 0.303767
+valid recall@50: 0.281006, valid ndcg@50: 0.109068, valid hitrate@50: 0.396322
+time interval: 12.3660 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 16800, train loss: 3.5965 
+valid recall@20: 0.203514, valid ndcg@20: 0.112060, valid hitrate@20: 0.303174
+valid recall@50: 0.283187, valid ndcg@50: 0.109755, valid hitrate@50: 0.398695
+time interval: 12.5182 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 17000, train loss: 3.5795 
+valid recall@20: 0.204919, valid ndcg@20: 0.112114, valid hitrate@20: 0.305844
+valid recall@50: 0.283670, valid ndcg@50: 0.109413, valid hitrate@50: 0.398991
+time interval: 12.6647 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 17200, train loss: 3.5552 
+valid recall@20: 0.203407, valid ndcg@20: 0.111623, valid hitrate@20: 0.302877
+valid recall@50: 0.280015, valid ndcg@50: 0.108094, valid hitrate@50: 0.394838
+time interval: 12.8112 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 17400, train loss: 3.5398 
+valid recall@20: 0.204969, valid ndcg@20: 0.112511, valid hitrate@20: 0.305251
+valid recall@50: 0.280106, valid ndcg@50: 0.108230, valid hitrate@50: 0.393058
+time interval: 12.9574 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 17600, train loss: 3.5199 
+valid recall@20: 0.205257, valid ndcg@20: 0.111813, valid hitrate@20: 0.305251
+valid recall@50: 0.280859, valid ndcg@50: 0.108141, valid hitrate@50: 0.395728
+time interval: 13.1033 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 17800, train loss: 3.4978 
+valid recall@20: 0.201486, valid ndcg@20: 0.110148, valid hitrate@20: 0.298724
+valid recall@50: 0.278904, valid ndcg@50: 0.107695, valid hitrate@50: 0.391872
+time interval: 13.2493 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 18000, train loss: 3.4985 
+valid recall@20: 0.202947, valid ndcg@20: 0.111359, valid hitrate@20: 0.301988
+valid recall@50: 0.280665, valid ndcg@50: 0.108654, valid hitrate@50: 0.394245
+time interval: 13.3952 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 18200, train loss: 3.4444 
+valid recall@20: 0.203150, valid ndcg@20: 0.111006, valid hitrate@20: 0.301988
+valid recall@50: 0.281526, valid ndcg@50: 0.109243, valid hitrate@50: 0.396025
+time interval: 13.5409 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 18400, train loss: 3.4538 
+valid recall@20: 0.200657, valid ndcg@20: 0.109211, valid hitrate@20: 0.296648
+valid recall@50: 0.278543, valid ndcg@50: 0.108047, valid hitrate@50: 0.392762
+time interval: 13.6867 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 18600, train loss: 3.4368 
+valid recall@20: 0.202410, valid ndcg@20: 0.111068, valid hitrate@20: 0.300504
+valid recall@50: 0.280127, valid ndcg@50: 0.108740, valid hitrate@50: 0.393652
+time interval: 13.8347 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 18800, train loss: 3.4350 
+valid recall@20: 0.202160, valid ndcg@20: 0.110257, valid hitrate@20: 0.299911
+valid recall@50: 0.278877, valid ndcg@50: 0.108152, valid hitrate@50: 0.392762
+time interval: 13.9830 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 19000, train loss: 3.4108 
+valid recall@20: 0.200389, valid ndcg@20: 0.109809, valid hitrate@20: 0.299614
+valid recall@50: 0.279385, valid ndcg@50: 0.108317, valid hitrate@50: 0.392762
+time interval: 14.1311 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 19200, train loss: 3.4029 
+valid recall@20: 0.202207, valid ndcg@20: 0.111241, valid hitrate@20: 0.302581
+valid recall@50: 0.280731, valid ndcg@50: 0.108932, valid hitrate@50: 0.394542
+time interval: 14.2788 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 19400, train loss: 3.3782 
+valid recall@20: 0.201532, valid ndcg@20: 0.110124, valid hitrate@20: 0.301394
+valid recall@50: 0.281854, valid ndcg@50: 0.109106, valid hitrate@50: 0.394542
+time interval: 14.4251 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 19600, train loss: 3.3815 
+valid recall@20: 0.204447, valid ndcg@20: 0.111397, valid hitrate@20: 0.304064
+valid recall@50: 0.282465, valid ndcg@50: 0.108595, valid hitrate@50: 0.395432
+time interval: 14.5712 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 19800, train loss: 3.3555 
+valid recall@20: 0.200987, valid ndcg@20: 0.109952, valid hitrate@20: 0.298724
+valid recall@50: 0.280975, valid ndcg@50: 0.108693, valid hitrate@50: 0.393355
+time interval: 14.7169 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 20000, train loss: 3.3377 
+valid recall@20: 0.201349, valid ndcg@20: 0.110284, valid hitrate@20: 0.299911
+valid recall@50: 0.280160, valid ndcg@50: 0.107640, valid hitrate@50: 0.390982
+time interval: 14.8632 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 20200, train loss: 3.3170 
+valid recall@20: 0.201334, valid ndcg@20: 0.110161, valid hitrate@20: 0.299021
+valid recall@50: 0.280652, valid ndcg@50: 0.108158, valid hitrate@50: 0.393058
+time interval: 15.0095 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 20400, train loss: 3.3190 
+valid recall@20: 0.203616, valid ndcg@20: 0.110943, valid hitrate@20: 0.302877
+valid recall@50: 0.280317, valid ndcg@50: 0.108565, valid hitrate@50: 0.394838
+time interval: 15.1552 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 20600, train loss: 3.2947 
+valid recall@20: 0.201468, valid ndcg@20: 0.109824, valid hitrate@20: 0.299614
+valid recall@50: 0.278097, valid ndcg@50: 0.107607, valid hitrate@50: 0.390389
+time interval: 15.2999 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 20800, train loss: 3.3084 
+valid recall@20: 0.202379, valid ndcg@20: 0.110904, valid hitrate@20: 0.301394
+valid recall@50: 0.278448, valid ndcg@50: 0.107961, valid hitrate@50: 0.392465
+time interval: 15.4469 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 21000, train loss: 3.3012 
+valid recall@20: 0.203650, valid ndcg@20: 0.111946, valid hitrate@20: 0.302581
+valid recall@50: 0.279351, valid ndcg@50: 0.108306, valid hitrate@50: 0.392168
+time interval: 15.5919 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 21200, train loss: 3.2851 
+valid recall@20: 0.201793, valid ndcg@20: 0.111307, valid hitrate@20: 0.300208
+valid recall@50: 0.277668, valid ndcg@50: 0.108267, valid hitrate@50: 0.390685
+time interval: 15.7376 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 21400, train loss: 3.2623 
+valid recall@20: 0.201059, valid ndcg@20: 0.111367, valid hitrate@20: 0.299911
+valid recall@50: 0.278556, valid ndcg@50: 0.108884, valid hitrate@50: 0.391279
+time interval: 15.8832 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 21600, train loss: 3.2484 
+valid recall@20: 0.202015, valid ndcg@20: 0.111148, valid hitrate@20: 0.301394
+valid recall@50: 0.277753, valid ndcg@50: 0.108338, valid hitrate@50: 0.391575
+time interval: 16.0293 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 21800, train loss: 3.2541 
+valid recall@20: 0.202494, valid ndcg@20: 0.111112, valid hitrate@20: 0.302284
+valid recall@50: 0.277518, valid ndcg@50: 0.108283, valid hitrate@50: 0.390389
+time interval: 16.1752 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 22000, train loss: 3.2295 
+valid recall@20: 0.202693, valid ndcg@20: 0.111174, valid hitrate@20: 0.303174
+valid recall@50: 0.278150, valid ndcg@50: 0.107842, valid hitrate@50: 0.390092
+time interval: 16.3212 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 22200, train loss: 3.2211 
+valid recall@20: 0.201752, valid ndcg@20: 0.111477, valid hitrate@20: 0.303174
+valid recall@50: 0.280588, valid ndcg@50: 0.108935, valid hitrate@50: 0.393948
+time interval: 16.4669 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 22400, train loss: 3.2315 
+valid recall@20: 0.201192, valid ndcg@20: 0.110972, valid hitrate@20: 0.302581
+valid recall@50: 0.277796, valid ndcg@50: 0.107123, valid hitrate@50: 0.388609
+time interval: 16.6126 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 22600, train loss: 3.1998 
+valid recall@20: 0.199504, valid ndcg@20: 0.110622, valid hitrate@20: 0.301098
+valid recall@50: 0.277709, valid ndcg@50: 0.107763, valid hitrate@50: 0.388609
+time interval: 16.7585 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 22800, train loss: 3.1822 
+valid recall@20: 0.199309, valid ndcg@20: 0.109769, valid hitrate@20: 0.298428
+valid recall@50: 0.276083, valid ndcg@50: 0.107047, valid hitrate@50: 0.385642
+time interval: 16.9045 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 23000, train loss: 3.1589 
+valid recall@20: 0.200460, valid ndcg@20: 0.110929, valid hitrate@20: 0.301691
+valid recall@50: 0.278135, valid ndcg@50: 0.107783, valid hitrate@50: 0.389202
+time interval: 17.0501 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 23200, train loss: 3.1562 
+valid recall@20: 0.201558, valid ndcg@20: 0.112593, valid hitrate@20: 0.304361
+valid recall@50: 0.277955, valid ndcg@50: 0.108228, valid hitrate@50: 0.390092
+time interval: 17.1959 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 23400, train loss: 3.1375 
+valid recall@20: 0.203496, valid ndcg@20: 0.112873, valid hitrate@20: 0.307031
+valid recall@50: 0.281253, valid ndcg@50: 0.109664, valid hitrate@50: 0.395135
+time interval: 17.3418 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 23600, train loss: 3.1357 
+valid recall@20: 0.203453, valid ndcg@20: 0.113081, valid hitrate@20: 0.306141
+valid recall@50: 0.281189, valid ndcg@50: 0.109606, valid hitrate@50: 0.394542
+time interval: 17.4881 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 23800, train loss: 3.1245 
+valid recall@20: 0.201094, valid ndcg@20: 0.111329, valid hitrate@20: 0.302877
+valid recall@50: 0.280362, valid ndcg@50: 0.108698, valid hitrate@50: 0.392465
+time interval: 17.6337 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 24000, train loss: 3.1370 
+valid recall@20: 0.203426, valid ndcg@20: 0.112153, valid hitrate@20: 0.307031
+valid recall@50: 0.283188, valid ndcg@50: 0.109924, valid hitrate@50: 0.396025
+time interval: 17.7798 min
+rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1
+iter: 24200, train loss: 3.1108 
+valid recall@20: 0.203593, valid ndcg@20: 0.112153, valid hitrate@20: 0.304064
+valid recall@50: 0.283020, valid ndcg@50: 0.110567, valid hitrate@50: 0.397212
+early stopping!
+Loss曲线已保存至: best_model/rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1/loss_curve.png
+model loaded from best_model/rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1/
+Item embeddings 已保存至 best_model/rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1/item_embeddings.npy, 形状: (90149, 64)
+User embeddings 已保存至 best_model/rocket_REMI_dropout0.2_wdc0_d64_top20_rbeta4_rlambda100_e1/user_embeddings.npy, 形状: (70313, 64)

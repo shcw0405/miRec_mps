@@ -1,0 +1,1349 @@
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 200, train loss: 7.0925 
+valid recall@20: 0.004291, valid ndcg@20: 0.003297, valid hitrate@20: 0.008603
+valid recall@50: 0.006841, valid ndcg@50: 0.003080, valid hitrate@50: 0.012459
+time interval: 0.1390 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 400, train loss: 6.8443 
+valid recall@20: 0.037712, valid ndcg@20: 0.022960, valid hitrate@20: 0.061999
+valid recall@50: 0.048487, valid ndcg@50: 0.020729, valid hitrate@50: 0.077722
+time interval: 0.2745 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 600, train loss: 6.4152 
+valid recall@20: 0.063812, valid ndcg@20: 0.036429, valid hitrate@20: 0.101157
+valid recall@50: 0.087615, valid ndcg@50: 0.035969, valid hitrate@50: 0.132602
+time interval: 0.4097 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 800, train loss: 5.8580 
+valid recall@20: 0.080341, valid ndcg@20: 0.044938, valid hitrate@20: 0.126075
+valid recall@50: 0.113563, valid ndcg@50: 0.047036, valid hitrate@50: 0.172649
+time interval: 0.5452 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 1000, train loss: 5.2627 
+valid recall@20: 0.091279, valid ndcg@20: 0.050747, valid hitrate@20: 0.143578
+valid recall@50: 0.127136, valid ndcg@50: 0.052769, valid hitrate@50: 0.192228
+time interval: 0.6805 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 1200, train loss: 4.6571 
+valid recall@20: 0.101069, valid ndcg@20: 0.056682, valid hitrate@20: 0.157520
+valid recall@50: 0.138949, valid ndcg@50: 0.056674, valid hitrate@50: 0.209730
+time interval: 0.8166 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 1400, train loss: 4.0997 
+valid recall@20: 0.109081, valid ndcg@20: 0.061646, valid hitrate@20: 0.172649
+valid recall@50: 0.148146, valid ndcg@50: 0.060891, valid hitrate@50: 0.224266
+time interval: 0.9530 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 1600, train loss: 3.6079 
+valid recall@20: 0.115352, valid ndcg@20: 0.064476, valid hitrate@20: 0.179769
+valid recall@50: 0.157891, valid ndcg@50: 0.063722, valid hitrate@50: 0.235242
+time interval: 1.0884 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 1800, train loss: 3.1848 
+valid recall@20: 0.120750, valid ndcg@20: 0.067292, valid hitrate@20: 0.188371
+valid recall@50: 0.168600, valid ndcg@50: 0.067472, valid hitrate@50: 0.248888
+time interval: 1.2237 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 2000, train loss: 2.8297 
+valid recall@20: 0.125210, valid ndcg@20: 0.069391, valid hitrate@20: 0.194008
+valid recall@50: 0.177826, valid ndcg@50: 0.070859, valid hitrate@50: 0.261347
+time interval: 1.3593 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 2200, train loss: 2.5502 
+valid recall@20: 0.130667, valid ndcg@20: 0.071970, valid hitrate@20: 0.201127
+valid recall@50: 0.183854, valid ndcg@50: 0.073074, valid hitrate@50: 0.270840
+time interval: 1.4954 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 2400, train loss: 2.3185 
+valid recall@20: 0.136535, valid ndcg@20: 0.074706, valid hitrate@20: 0.209137
+valid recall@50: 0.189385, valid ndcg@50: 0.075734, valid hitrate@50: 0.277662
+time interval: 1.6311 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 2600, train loss: 2.1492 
+valid recall@20: 0.137746, valid ndcg@20: 0.076208, valid hitrate@20: 0.212103
+valid recall@50: 0.192850, valid ndcg@50: 0.078032, valid hitrate@50: 0.285375
+time interval: 1.7666 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 2800, train loss: 1.9740 
+valid recall@20: 0.139835, valid ndcg@20: 0.077005, valid hitrate@20: 0.215663
+valid recall@50: 0.195423, valid ndcg@50: 0.078532, valid hitrate@50: 0.288045
+time interval: 1.9022 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 3000, train loss: 1.8458 
+valid recall@20: 0.142994, valid ndcg@20: 0.078624, valid hitrate@20: 0.219816
+valid recall@50: 0.198525, valid ndcg@50: 0.079889, valid hitrate@50: 0.291308
+time interval: 2.0376 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 3200, train loss: 1.7189 
+valid recall@20: 0.142649, valid ndcg@20: 0.078161, valid hitrate@20: 0.219816
+valid recall@50: 0.202026, valid ndcg@50: 0.081383, valid hitrate@50: 0.296945
+time interval: 2.1734 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 3400, train loss: 1.6145 
+valid recall@20: 0.145895, valid ndcg@20: 0.079067, valid hitrate@20: 0.223376
+valid recall@50: 0.206142, valid ndcg@50: 0.082149, valid hitrate@50: 0.301098
+time interval: 2.3082 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 3600, train loss: 1.5184 
+valid recall@20: 0.147197, valid ndcg@20: 0.081860, valid hitrate@20: 0.226639
+valid recall@50: 0.207797, valid ndcg@50: 0.083379, valid hitrate@50: 0.303767
+time interval: 2.4449 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 3800, train loss: 1.4494 
+valid recall@20: 0.146155, valid ndcg@20: 0.081130, valid hitrate@20: 0.226046
+valid recall@50: 0.210155, valid ndcg@50: 0.084356, valid hitrate@50: 0.308217
+time interval: 2.5792 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 4000, train loss: 1.3603 
+valid recall@20: 0.146969, valid ndcg@20: 0.080676, valid hitrate@20: 0.226342
+valid recall@50: 0.211813, valid ndcg@50: 0.084751, valid hitrate@50: 0.309404
+time interval: 2.7157 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 4200, train loss: 1.2888 
+valid recall@20: 0.146741, valid ndcg@20: 0.080472, valid hitrate@20: 0.225749
+valid recall@50: 0.214668, valid ndcg@50: 0.085744, valid hitrate@50: 0.314743
+time interval: 2.8501 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 4400, train loss: 1.2413 
+valid recall@20: 0.147807, valid ndcg@20: 0.080522, valid hitrate@20: 0.227826
+valid recall@50: 0.217892, valid ndcg@50: 0.086694, valid hitrate@50: 0.316523
+time interval: 2.9869 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 4600, train loss: 1.1908 
+valid recall@20: 0.148672, valid ndcg@20: 0.081445, valid hitrate@20: 0.229605
+valid recall@50: 0.219829, valid ndcg@50: 0.087597, valid hitrate@50: 0.320973
+time interval: 3.1213 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 4800, train loss: 1.1418 
+valid recall@20: 0.148196, valid ndcg@20: 0.080556, valid hitrate@20: 0.226936
+valid recall@50: 0.219294, valid ndcg@50: 0.087639, valid hitrate@50: 0.321863
+time interval: 3.2563 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 5000, train loss: 1.0889 
+valid recall@20: 0.149876, valid ndcg@20: 0.081924, valid hitrate@20: 0.231682
+valid recall@50: 0.221391, valid ndcg@50: 0.089438, valid hitrate@50: 0.326313
+time interval: 3.3914 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 5200, train loss: 1.0534 
+valid recall@20: 0.150680, valid ndcg@20: 0.083279, valid hitrate@20: 0.234648
+valid recall@50: 0.223922, valid ndcg@50: 0.090061, valid hitrate@50: 0.328093
+time interval: 3.5267 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 5400, train loss: 1.0148 
+valid recall@20: 0.147331, valid ndcg@20: 0.081990, valid hitrate@20: 0.230792
+valid recall@50: 0.223743, valid ndcg@50: 0.089472, valid hitrate@50: 0.327203
+time interval: 3.6621 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 5600, train loss: 0.9837 
+valid recall@20: 0.150526, valid ndcg@20: 0.083453, valid hitrate@20: 0.234945
+valid recall@50: 0.224366, valid ndcg@50: 0.090208, valid hitrate@50: 0.328093
+time interval: 3.7974 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 5800, train loss: 0.9498 
+valid recall@20: 0.151431, valid ndcg@20: 0.084385, valid hitrate@20: 0.236428
+valid recall@50: 0.226952, valid ndcg@50: 0.090594, valid hitrate@50: 0.330762
+time interval: 3.9328 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 6000, train loss: 0.9209 
+valid recall@20: 0.152049, valid ndcg@20: 0.084905, valid hitrate@20: 0.236725
+valid recall@50: 0.229421, valid ndcg@50: 0.091945, valid hitrate@50: 0.333432
+time interval: 4.0686 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 6200, train loss: 0.8898 
+valid recall@20: 0.154582, valid ndcg@20: 0.085550, valid hitrate@20: 0.238208
+valid recall@50: 0.229261, valid ndcg@50: 0.092229, valid hitrate@50: 0.334619
+time interval: 4.2038 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 6400, train loss: 0.8579 
+valid recall@20: 0.154212, valid ndcg@20: 0.085126, valid hitrate@20: 0.238802
+valid recall@50: 0.229454, valid ndcg@50: 0.091871, valid hitrate@50: 0.334026
+time interval: 4.3391 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 6600, train loss: 0.8470 
+valid recall@20: 0.156068, valid ndcg@20: 0.086206, valid hitrate@20: 0.242658
+valid recall@50: 0.233646, valid ndcg@50: 0.093799, valid hitrate@50: 0.341442
+time interval: 4.4746 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 6800, train loss: 0.8200 
+valid recall@20: 0.154483, valid ndcg@20: 0.085466, valid hitrate@20: 0.241471
+valid recall@50: 0.232919, valid ndcg@50: 0.093512, valid hitrate@50: 0.340552
+time interval: 4.6097 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 7000, train loss: 0.7959 
+valid recall@20: 0.155695, valid ndcg@20: 0.085119, valid hitrate@20: 0.240285
+valid recall@50: 0.234307, valid ndcg@50: 0.092777, valid hitrate@50: 0.337585
+time interval: 4.7450 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 7200, train loss: 0.7763 
+valid recall@20: 0.157028, valid ndcg@20: 0.085672, valid hitrate@20: 0.240878
+valid recall@50: 0.233280, valid ndcg@50: 0.093389, valid hitrate@50: 0.337882
+time interval: 4.8800 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 7400, train loss: 0.7581 
+valid recall@20: 0.157005, valid ndcg@20: 0.086458, valid hitrate@20: 0.241471
+valid recall@50: 0.236509, valid ndcg@50: 0.094310, valid hitrate@50: 0.343222
+time interval: 5.0151 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 7600, train loss: 0.7359 
+valid recall@20: 0.157173, valid ndcg@20: 0.085828, valid hitrate@20: 0.242361
+valid recall@50: 0.237986, valid ndcg@50: 0.094588, valid hitrate@50: 0.343815
+time interval: 5.1505 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 7800, train loss: 0.7279 
+valid recall@20: 0.156638, valid ndcg@20: 0.087088, valid hitrate@20: 0.242065
+valid recall@50: 0.237978, valid ndcg@50: 0.094619, valid hitrate@50: 0.344705
+time interval: 5.2855 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 8000, train loss: 0.7021 
+valid recall@20: 0.156427, valid ndcg@20: 0.086361, valid hitrate@20: 0.242065
+valid recall@50: 0.237669, valid ndcg@50: 0.095068, valid hitrate@50: 0.344112
+time interval: 5.4201 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 8200, train loss: 0.6890 
+valid recall@20: 0.159161, valid ndcg@20: 0.087369, valid hitrate@20: 0.244438
+valid recall@50: 0.239253, valid ndcg@50: 0.095236, valid hitrate@50: 0.343815
+time interval: 5.5552 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 8400, train loss: 0.6902 
+valid recall@20: 0.158100, valid ndcg@20: 0.086443, valid hitrate@20: 0.242658
+valid recall@50: 0.240816, valid ndcg@50: 0.096434, valid hitrate@50: 0.346781
+time interval: 5.6906 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 8600, train loss: 0.6739 
+valid recall@20: 0.157235, valid ndcg@20: 0.085600, valid hitrate@20: 0.241471
+valid recall@50: 0.240316, valid ndcg@50: 0.096208, valid hitrate@50: 0.346485
+time interval: 5.8262 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 8800, train loss: 0.6639 
+valid recall@20: 0.157716, valid ndcg@20: 0.086443, valid hitrate@20: 0.241175
+valid recall@50: 0.237702, valid ndcg@50: 0.094948, valid hitrate@50: 0.344112
+time interval: 5.9610 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 9000, train loss: 0.6374 
+valid recall@20: 0.155726, valid ndcg@20: 0.084632, valid hitrate@20: 0.238208
+valid recall@50: 0.239719, valid ndcg@50: 0.094162, valid hitrate@50: 0.344705
+time interval: 6.0963 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 9200, train loss: 0.6314 
+valid recall@20: 0.154029, valid ndcg@20: 0.084348, valid hitrate@20: 0.237318
+valid recall@50: 0.243074, valid ndcg@50: 0.095481, valid hitrate@50: 0.350044
+time interval: 6.2313 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 9400, train loss: 0.6322 
+valid recall@20: 0.159006, valid ndcg@20: 0.087373, valid hitrate@20: 0.244735
+valid recall@50: 0.242927, valid ndcg@50: 0.095313, valid hitrate@50: 0.348858
+time interval: 6.3667 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 9600, train loss: 0.6085 
+valid recall@20: 0.158051, valid ndcg@20: 0.086107, valid hitrate@20: 0.243548
+valid recall@50: 0.243925, valid ndcg@50: 0.096850, valid hitrate@50: 0.355088
+time interval: 6.5019 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 9800, train loss: 0.6013 
+valid recall@20: 0.157675, valid ndcg@20: 0.086502, valid hitrate@20: 0.243548
+valid recall@50: 0.241749, valid ndcg@50: 0.095352, valid hitrate@50: 0.351231
+time interval: 6.6368 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 10000, train loss: 0.5877 
+valid recall@20: 0.157374, valid ndcg@20: 0.085711, valid hitrate@20: 0.241768
+valid recall@50: 0.241017, valid ndcg@50: 0.094683, valid hitrate@50: 0.347968
+time interval: 6.7704 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 10200, train loss: 0.5783 
+valid recall@20: 0.157234, valid ndcg@20: 0.085805, valid hitrate@20: 0.241175
+valid recall@50: 0.240678, valid ndcg@50: 0.094377, valid hitrate@50: 0.347078
+time interval: 6.9058 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 10400, train loss: 0.5661 
+valid recall@20: 0.155136, valid ndcg@20: 0.085144, valid hitrate@20: 0.238802
+valid recall@50: 0.244582, valid ndcg@50: 0.095708, valid hitrate@50: 0.351231
+time interval: 7.0399 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 10600, train loss: 0.5594 
+valid recall@20: 0.154059, valid ndcg@20: 0.084188, valid hitrate@20: 0.237912
+valid recall@50: 0.246858, valid ndcg@50: 0.097009, valid hitrate@50: 0.354198
+time interval: 7.1753 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 10800, train loss: 0.5614 
+valid recall@20: 0.157832, valid ndcg@20: 0.086182, valid hitrate@20: 0.241768
+valid recall@50: 0.244378, valid ndcg@50: 0.096791, valid hitrate@50: 0.351528
+time interval: 7.3107 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 11000, train loss: 0.5531 
+valid recall@20: 0.158483, valid ndcg@20: 0.086377, valid hitrate@20: 0.241471
+valid recall@50: 0.245015, valid ndcg@50: 0.096085, valid hitrate@50: 0.350638
+time interval: 7.4453 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 11200, train loss: 0.5360 
+valid recall@20: 0.159999, valid ndcg@20: 0.085732, valid hitrate@20: 0.241768
+valid recall@50: 0.246700, valid ndcg@50: 0.096572, valid hitrate@50: 0.352714
+time interval: 7.5798 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 11400, train loss: 0.5391 
+valid recall@20: 0.159035, valid ndcg@20: 0.085048, valid hitrate@20: 0.242361
+valid recall@50: 0.247077, valid ndcg@50: 0.096181, valid hitrate@50: 0.351231
+time interval: 7.7148 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 11600, train loss: 0.5301 
+valid recall@20: 0.159961, valid ndcg@20: 0.085372, valid hitrate@20: 0.243251
+valid recall@50: 0.247820, valid ndcg@50: 0.097181, valid hitrate@50: 0.354198
+time interval: 7.8504 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 11800, train loss: 0.5221 
+valid recall@20: 0.159804, valid ndcg@20: 0.086357, valid hitrate@20: 0.244438
+valid recall@50: 0.246558, valid ndcg@50: 0.096838, valid hitrate@50: 0.353011
+time interval: 7.9852 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 12000, train loss: 0.5091 
+valid recall@20: 0.159379, valid ndcg@20: 0.087615, valid hitrate@20: 0.246811
+valid recall@50: 0.244106, valid ndcg@50: 0.095750, valid hitrate@50: 0.351528
+time interval: 8.1198 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 12200, train loss: 0.5115 
+valid recall@20: 0.161677, valid ndcg@20: 0.087526, valid hitrate@20: 0.247108
+valid recall@50: 0.245182, valid ndcg@50: 0.094981, valid hitrate@50: 0.350341
+time interval: 8.2544 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 12400, train loss: 0.4942 
+valid recall@20: 0.162914, valid ndcg@20: 0.088209, valid hitrate@20: 0.248591
+valid recall@50: 0.244866, valid ndcg@50: 0.095816, valid hitrate@50: 0.351528
+time interval: 8.3893 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 12600, train loss: 0.5030 
+valid recall@20: 0.160455, valid ndcg@20: 0.087856, valid hitrate@20: 0.245624
+valid recall@50: 0.243347, valid ndcg@50: 0.095708, valid hitrate@50: 0.347968
+time interval: 8.5238 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 12800, train loss: 0.4926 
+valid recall@20: 0.158289, valid ndcg@20: 0.085807, valid hitrate@20: 0.242658
+valid recall@50: 0.246538, valid ndcg@50: 0.096184, valid hitrate@50: 0.350638
+time interval: 8.6583 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 13000, train loss: 0.4799 
+valid recall@20: 0.158076, valid ndcg@20: 0.085477, valid hitrate@20: 0.240581
+valid recall@50: 0.245661, valid ndcg@50: 0.095845, valid hitrate@50: 0.350934
+time interval: 8.7929 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 13200, train loss: 0.4766 
+valid recall@20: 0.159770, valid ndcg@20: 0.085835, valid hitrate@20: 0.242955
+valid recall@50: 0.246687, valid ndcg@50: 0.096539, valid hitrate@50: 0.352714
+time interval: 8.9274 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 13400, train loss: 0.4711 
+valid recall@20: 0.158413, valid ndcg@20: 0.086142, valid hitrate@20: 0.242065
+valid recall@50: 0.245249, valid ndcg@50: 0.095733, valid hitrate@50: 0.350934
+time interval: 9.0621 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 13600, train loss: 0.4738 
+valid recall@20: 0.159539, valid ndcg@20: 0.086898, valid hitrate@20: 0.242065
+valid recall@50: 0.246682, valid ndcg@50: 0.095591, valid hitrate@50: 0.351231
+time interval: 9.1969 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 13800, train loss: 0.4706 
+valid recall@20: 0.160769, valid ndcg@20: 0.086329, valid hitrate@20: 0.242955
+valid recall@50: 0.247212, valid ndcg@50: 0.095751, valid hitrate@50: 0.350638
+time interval: 9.3325 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 14000, train loss: 0.4603 
+valid recall@20: 0.158950, valid ndcg@20: 0.085246, valid hitrate@20: 0.239691
+valid recall@50: 0.248923, valid ndcg@50: 0.096955, valid hitrate@50: 0.353011
+time interval: 9.4679 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 14200, train loss: 0.4529 
+valid recall@20: 0.157247, valid ndcg@20: 0.085447, valid hitrate@20: 0.237912
+valid recall@50: 0.246936, valid ndcg@50: 0.096415, valid hitrate@50: 0.350934
+time interval: 9.6032 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 14400, train loss: 0.4523 
+valid recall@20: 0.159573, valid ndcg@20: 0.086833, valid hitrate@20: 0.239395
+valid recall@50: 0.248011, valid ndcg@50: 0.097234, valid hitrate@50: 0.353604
+time interval: 9.7380 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 14600, train loss: 0.4525 
+valid recall@20: 0.156571, valid ndcg@20: 0.084720, valid hitrate@20: 0.234945
+valid recall@50: 0.249995, valid ndcg@50: 0.097051, valid hitrate@50: 0.355384
+time interval: 9.8732 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 14800, train loss: 0.4403 
+valid recall@20: 0.156448, valid ndcg@20: 0.085527, valid hitrate@20: 0.237022
+valid recall@50: 0.248065, valid ndcg@50: 0.096981, valid hitrate@50: 0.356867
+time interval: 10.0083 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 15000, train loss: 0.4395 
+valid recall@20: 0.156358, valid ndcg@20: 0.084902, valid hitrate@20: 0.235835
+valid recall@50: 0.248706, valid ndcg@50: 0.098244, valid hitrate@50: 0.357461
+time interval: 10.1430 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 15200, train loss: 0.4356 
+valid recall@20: 0.157245, valid ndcg@20: 0.086121, valid hitrate@20: 0.238505
+valid recall@50: 0.253238, valid ndcg@50: 0.099016, valid hitrate@50: 0.361317
+time interval: 10.2780 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 15400, train loss: 0.4375 
+valid recall@20: 0.156636, valid ndcg@20: 0.085542, valid hitrate@20: 0.237912
+valid recall@50: 0.248745, valid ndcg@50: 0.097024, valid hitrate@50: 0.355088
+time interval: 10.4129 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 15600, train loss: 0.4264 
+valid recall@20: 0.158784, valid ndcg@20: 0.085813, valid hitrate@20: 0.239395
+valid recall@50: 0.249718, valid ndcg@50: 0.097540, valid hitrate@50: 0.356571
+time interval: 10.5479 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 15800, train loss: 0.4264 
+valid recall@20: 0.157416, valid ndcg@20: 0.086615, valid hitrate@20: 0.240581
+valid recall@50: 0.250685, valid ndcg@50: 0.097961, valid hitrate@50: 0.357164
+time interval: 10.6818 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 16000, train loss: 0.4312 
+valid recall@20: 0.158763, valid ndcg@20: 0.086810, valid hitrate@20: 0.242658
+valid recall@50: 0.252734, valid ndcg@50: 0.098652, valid hitrate@50: 0.360131
+time interval: 10.8177 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 16200, train loss: 0.4227 
+valid recall@20: 0.157970, valid ndcg@20: 0.086869, valid hitrate@20: 0.240878
+valid recall@50: 0.252189, valid ndcg@50: 0.098001, valid hitrate@50: 0.357757
+time interval: 10.9513 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 16400, train loss: 0.4238 
+valid recall@20: 0.157857, valid ndcg@20: 0.087141, valid hitrate@20: 0.242955
+valid recall@50: 0.252659, valid ndcg@50: 0.098716, valid hitrate@50: 0.359834
+time interval: 11.0860 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 16600, train loss: 0.4134 
+valid recall@20: 0.157112, valid ndcg@20: 0.085694, valid hitrate@20: 0.238802
+valid recall@50: 0.251493, valid ndcg@50: 0.097945, valid hitrate@50: 0.358351
+time interval: 11.2207 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 16800, train loss: 0.4151 
+valid recall@20: 0.156826, valid ndcg@20: 0.086613, valid hitrate@20: 0.240285
+valid recall@50: 0.249523, valid ndcg@50: 0.097591, valid hitrate@50: 0.356274
+time interval: 11.3559 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 17000, train loss: 0.4127 
+valid recall@20: 0.156952, valid ndcg@20: 0.086259, valid hitrate@20: 0.240581
+valid recall@50: 0.248198, valid ndcg@50: 0.097897, valid hitrate@50: 0.356571
+time interval: 11.4907 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 17200, train loss: 0.4149 
+valid recall@20: 0.156427, valid ndcg@20: 0.086391, valid hitrate@20: 0.239395
+valid recall@50: 0.249738, valid ndcg@50: 0.097556, valid hitrate@50: 0.355977
+time interval: 11.6254 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 17400, train loss: 0.3991 
+valid recall@20: 0.157783, valid ndcg@20: 0.087070, valid hitrate@20: 0.241175
+valid recall@50: 0.249106, valid ndcg@50: 0.097358, valid hitrate@50: 0.353308
+time interval: 11.7599 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 17600, train loss: 0.3986 
+valid recall@20: 0.156746, valid ndcg@20: 0.086084, valid hitrate@20: 0.238802
+valid recall@50: 0.248787, valid ndcg@50: 0.097267, valid hitrate@50: 0.355977
+time interval: 11.8948 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 17800, train loss: 0.3971 
+valid recall@20: 0.159944, valid ndcg@20: 0.087211, valid hitrate@20: 0.245328
+valid recall@50: 0.251278, valid ndcg@50: 0.098075, valid hitrate@50: 0.360724
+time interval: 12.0295 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 18000, train loss: 0.3950 
+valid recall@20: 0.160089, valid ndcg@20: 0.087051, valid hitrate@20: 0.243845
+valid recall@50: 0.251059, valid ndcg@50: 0.099078, valid hitrate@50: 0.360131
+time interval: 12.1643 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 18200, train loss: 0.3943 
+valid recall@20: 0.158401, valid ndcg@20: 0.087225, valid hitrate@20: 0.244141
+valid recall@50: 0.250317, valid ndcg@50: 0.098308, valid hitrate@50: 0.359537
+time interval: 12.2988 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 18400, train loss: 0.3950 
+valid recall@20: 0.159972, valid ndcg@20: 0.086897, valid hitrate@20: 0.242955
+valid recall@50: 0.250681, valid ndcg@50: 0.097725, valid hitrate@50: 0.357757
+time interval: 12.4335 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 18600, train loss: 0.3924 
+valid recall@20: 0.156966, valid ndcg@20: 0.087530, valid hitrate@20: 0.241768
+valid recall@50: 0.250004, valid ndcg@50: 0.097717, valid hitrate@50: 0.359241
+time interval: 12.5682 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 18800, train loss: 0.3821 
+valid recall@20: 0.158675, valid ndcg@20: 0.087426, valid hitrate@20: 0.242361
+valid recall@50: 0.251666, valid ndcg@50: 0.097963, valid hitrate@50: 0.359241
+time interval: 12.7030 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 19000, train loss: 0.3837 
+valid recall@20: 0.158352, valid ndcg@20: 0.086533, valid hitrate@20: 0.242065
+valid recall@50: 0.250860, valid ndcg@50: 0.097816, valid hitrate@50: 0.359537
+time interval: 12.8382 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 19200, train loss: 0.3804 
+valid recall@20: 0.156761, valid ndcg@20: 0.086062, valid hitrate@20: 0.240581
+valid recall@50: 0.251492, valid ndcg@50: 0.098724, valid hitrate@50: 0.358944
+time interval: 12.9728 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 19400, train loss: 0.3825 
+valid recall@20: 0.156670, valid ndcg@20: 0.085036, valid hitrate@20: 0.236428
+valid recall@50: 0.251957, valid ndcg@50: 0.098507, valid hitrate@50: 0.359241
+time interval: 13.1076 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 19600, train loss: 0.3771 
+valid recall@20: 0.159055, valid ndcg@20: 0.086131, valid hitrate@20: 0.240878
+valid recall@50: 0.254401, valid ndcg@50: 0.099309, valid hitrate@50: 0.363987
+time interval: 13.2431 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 19800, train loss: 0.3782 
+valid recall@20: 0.159358, valid ndcg@20: 0.087108, valid hitrate@20: 0.240581
+valid recall@50: 0.252790, valid ndcg@50: 0.099111, valid hitrate@50: 0.361614
+time interval: 13.3786 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 20000, train loss: 0.3822 
+valid recall@20: 0.160009, valid ndcg@20: 0.087663, valid hitrate@20: 0.242658
+valid recall@50: 0.254148, valid ndcg@50: 0.098876, valid hitrate@50: 0.361614
+time interval: 13.5136 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 20200, train loss: 0.3708 
+valid recall@20: 0.159183, valid ndcg@20: 0.087222, valid hitrate@20: 0.242658
+valid recall@50: 0.254719, valid ndcg@50: 0.099300, valid hitrate@50: 0.363987
+time interval: 13.6489 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 20400, train loss: 0.3651 
+valid recall@20: 0.159641, valid ndcg@20: 0.087387, valid hitrate@20: 0.242955
+valid recall@50: 0.255179, valid ndcg@50: 0.099220, valid hitrate@50: 0.361910
+time interval: 13.7844 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 20600, train loss: 0.3642 
+valid recall@20: 0.159663, valid ndcg@20: 0.088557, valid hitrate@20: 0.244735
+valid recall@50: 0.251707, valid ndcg@50: 0.098720, valid hitrate@50: 0.360427
+time interval: 13.9197 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 20800, train loss: 0.3697 
+valid recall@20: 0.160488, valid ndcg@20: 0.088375, valid hitrate@20: 0.244438
+valid recall@50: 0.253332, valid ndcg@50: 0.099486, valid hitrate@50: 0.363394
+time interval: 14.0542 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 21000, train loss: 0.3606 
+valid recall@20: 0.160025, valid ndcg@20: 0.088379, valid hitrate@20: 0.244438
+valid recall@50: 0.252162, valid ndcg@50: 0.099048, valid hitrate@50: 0.361910
+time interval: 14.1888 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 21200, train loss: 0.3644 
+valid recall@20: 0.162034, valid ndcg@20: 0.089530, valid hitrate@20: 0.247701
+valid recall@50: 0.251965, valid ndcg@50: 0.098368, valid hitrate@50: 0.358944
+time interval: 14.3235 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 21400, train loss: 0.3566 
+valid recall@20: 0.159393, valid ndcg@20: 0.088549, valid hitrate@20: 0.245031
+valid recall@50: 0.250603, valid ndcg@50: 0.098229, valid hitrate@50: 0.358351
+time interval: 14.4582 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 21600, train loss: 0.3569 
+valid recall@20: 0.159935, valid ndcg@20: 0.087977, valid hitrate@20: 0.244735
+valid recall@50: 0.250801, valid ndcg@50: 0.099190, valid hitrate@50: 0.361317
+time interval: 14.5924 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 21800, train loss: 0.3561 
+valid recall@20: 0.161008, valid ndcg@20: 0.088950, valid hitrate@20: 0.246811
+valid recall@50: 0.251605, valid ndcg@50: 0.099038, valid hitrate@50: 0.359537
+time interval: 14.7280 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 22000, train loss: 0.3567 
+valid recall@20: 0.163287, valid ndcg@20: 0.089938, valid hitrate@20: 0.247998
+valid recall@50: 0.249108, valid ndcg@50: 0.098342, valid hitrate@50: 0.359834
+time interval: 14.8616 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 22200, train loss: 0.3458 
+valid recall@20: 0.161864, valid ndcg@20: 0.089057, valid hitrate@20: 0.244438
+valid recall@50: 0.251248, valid ndcg@50: 0.099014, valid hitrate@50: 0.359241
+time interval: 14.9966 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 22400, train loss: 0.3489 
+valid recall@20: 0.160879, valid ndcg@20: 0.089461, valid hitrate@20: 0.245328
+valid recall@50: 0.251083, valid ndcg@50: 0.099381, valid hitrate@50: 0.360724
+time interval: 15.1312 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 22600, train loss: 0.3468 
+valid recall@20: 0.159344, valid ndcg@20: 0.088464, valid hitrate@20: 0.243548
+valid recall@50: 0.251566, valid ndcg@50: 0.098957, valid hitrate@50: 0.360427
+time interval: 15.2657 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 22800, train loss: 0.3399 
+valid recall@20: 0.161094, valid ndcg@20: 0.088920, valid hitrate@20: 0.244438
+valid recall@50: 0.251277, valid ndcg@50: 0.100077, valid hitrate@50: 0.362504
+time interval: 15.4004 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 23000, train loss: 0.3433 
+valid recall@20: 0.159083, valid ndcg@20: 0.088923, valid hitrate@20: 0.244438
+valid recall@50: 0.250978, valid ndcg@50: 0.099181, valid hitrate@50: 0.359834
+time interval: 15.5349 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 23200, train loss: 0.3456 
+valid recall@20: 0.159958, valid ndcg@20: 0.087864, valid hitrate@20: 0.242658
+valid recall@50: 0.252245, valid ndcg@50: 0.098822, valid hitrate@50: 0.360131
+time interval: 15.6695 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 23400, train loss: 0.3471 
+valid recall@20: 0.160178, valid ndcg@20: 0.089147, valid hitrate@20: 0.244735
+valid recall@50: 0.252062, valid ndcg@50: 0.099509, valid hitrate@50: 0.362207
+time interval: 15.8042 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 23600, train loss: 0.3449 
+valid recall@20: 0.159861, valid ndcg@20: 0.089212, valid hitrate@20: 0.244735
+valid recall@50: 0.251032, valid ndcg@50: 0.099780, valid hitrate@50: 0.361614
+time interval: 15.9391 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 23800, train loss: 0.3405 
+valid recall@20: 0.161835, valid ndcg@20: 0.090951, valid hitrate@20: 0.248294
+valid recall@50: 0.254166, valid ndcg@50: 0.101012, valid hitrate@50: 0.365470
+time interval: 16.0734 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 24000, train loss: 0.3393 
+valid recall@20: 0.159733, valid ndcg@20: 0.088299, valid hitrate@20: 0.242361
+valid recall@50: 0.253209, valid ndcg@50: 0.100077, valid hitrate@50: 0.363987
+time interval: 16.2070 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 24200, train loss: 0.3349 
+valid recall@20: 0.160710, valid ndcg@20: 0.088421, valid hitrate@20: 0.242361
+valid recall@50: 0.252822, valid ndcg@50: 0.099437, valid hitrate@50: 0.363987
+time interval: 16.3419 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 24400, train loss: 0.3292 
+valid recall@20: 0.158690, valid ndcg@20: 0.088156, valid hitrate@20: 0.239988
+valid recall@50: 0.253046, valid ndcg@50: 0.099961, valid hitrate@50: 0.364580
+time interval: 16.4769 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 24600, train loss: 0.3321 
+valid recall@20: 0.159428, valid ndcg@20: 0.089449, valid hitrate@20: 0.242065
+valid recall@50: 0.251489, valid ndcg@50: 0.098769, valid hitrate@50: 0.361317
+time interval: 16.6120 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 24800, train loss: 0.3311 
+valid recall@20: 0.159376, valid ndcg@20: 0.089297, valid hitrate@20: 0.244141
+valid recall@50: 0.251287, valid ndcg@50: 0.099805, valid hitrate@50: 0.362504
+time interval: 16.7467 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 25000, train loss: 0.3329 
+valid recall@20: 0.158585, valid ndcg@20: 0.089050, valid hitrate@20: 0.242065
+valid recall@50: 0.253475, valid ndcg@50: 0.099865, valid hitrate@50: 0.362800
+time interval: 16.8817 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 25200, train loss: 0.3307 
+valid recall@20: 0.161439, valid ndcg@20: 0.090245, valid hitrate@20: 0.244438
+valid recall@50: 0.255226, valid ndcg@50: 0.100067, valid hitrate@50: 0.364284
+time interval: 17.0169 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 25400, train loss: 0.3293 
+valid recall@20: 0.158815, valid ndcg@20: 0.087657, valid hitrate@20: 0.240285
+valid recall@50: 0.252817, valid ndcg@50: 0.099822, valid hitrate@50: 0.361020
+time interval: 17.1520 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 25600, train loss: 0.3268 
+valid recall@20: 0.159441, valid ndcg@20: 0.088338, valid hitrate@20: 0.241768
+valid recall@50: 0.251686, valid ndcg@50: 0.099645, valid hitrate@50: 0.360724
+time interval: 17.2872 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 25800, train loss: 0.3183 
+valid recall@20: 0.157859, valid ndcg@20: 0.088348, valid hitrate@20: 0.241471
+valid recall@50: 0.253400, valid ndcg@50: 0.099367, valid hitrate@50: 0.362800
+time interval: 17.4223 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 26000, train loss: 0.3360 
+valid recall@20: 0.155804, valid ndcg@20: 0.087538, valid hitrate@20: 0.239395
+valid recall@50: 0.254043, valid ndcg@50: 0.100389, valid hitrate@50: 0.362504
+time interval: 17.5570 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 26200, train loss: 0.3263 
+valid recall@20: 0.157642, valid ndcg@20: 0.088527, valid hitrate@20: 0.240878
+valid recall@50: 0.252384, valid ndcg@50: 0.098961, valid hitrate@50: 0.361317
+time interval: 17.6920 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 26400, train loss: 0.3232 
+valid recall@20: 0.156487, valid ndcg@20: 0.087704, valid hitrate@20: 0.238208
+valid recall@50: 0.253324, valid ndcg@50: 0.100327, valid hitrate@50: 0.364284
+time interval: 17.8267 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 26600, train loss: 0.3201 
+valid recall@20: 0.157134, valid ndcg@20: 0.088513, valid hitrate@20: 0.241768
+valid recall@50: 0.254231, valid ndcg@50: 0.099405, valid hitrate@50: 0.362800
+time interval: 17.9613 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 26800, train loss: 0.3214 
+valid recall@20: 0.157192, valid ndcg@20: 0.088619, valid hitrate@20: 0.241768
+valid recall@50: 0.251515, valid ndcg@50: 0.098275, valid hitrate@50: 0.359241
+time interval: 18.0964 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 27000, train loss: 0.3161 
+valid recall@20: 0.155995, valid ndcg@20: 0.088808, valid hitrate@20: 0.241175
+valid recall@50: 0.252660, valid ndcg@50: 0.098779, valid hitrate@50: 0.360427
+time interval: 18.2311 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 27200, train loss: 0.3232 
+valid recall@20: 0.159037, valid ndcg@20: 0.089350, valid hitrate@20: 0.243845
+valid recall@50: 0.251366, valid ndcg@50: 0.098967, valid hitrate@50: 0.360131
+time interval: 18.3659 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 27400, train loss: 0.3201 
+valid recall@20: 0.157096, valid ndcg@20: 0.086180, valid hitrate@20: 0.239098
+valid recall@50: 0.253413, valid ndcg@50: 0.099867, valid hitrate@50: 0.362504
+time interval: 18.4996 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 27600, train loss: 0.3198 
+valid recall@20: 0.157240, valid ndcg@20: 0.087571, valid hitrate@20: 0.239988
+valid recall@50: 0.252749, valid ndcg@50: 0.099518, valid hitrate@50: 0.361614
+time interval: 18.6355 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 27800, train loss: 0.3146 
+valid recall@20: 0.157237, valid ndcg@20: 0.087855, valid hitrate@20: 0.239691
+valid recall@50: 0.253720, valid ndcg@50: 0.099629, valid hitrate@50: 0.360724
+time interval: 18.7692 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 28000, train loss: 0.3176 
+valid recall@20: 0.158269, valid ndcg@20: 0.087266, valid hitrate@20: 0.241175
+valid recall@50: 0.254084, valid ndcg@50: 0.099366, valid hitrate@50: 0.362207
+time interval: 18.9041 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 28200, train loss: 0.3155 
+valid recall@20: 0.155205, valid ndcg@20: 0.085459, valid hitrate@20: 0.236132
+valid recall@50: 0.256812, valid ndcg@50: 0.101205, valid hitrate@50: 0.366360
+time interval: 19.0393 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 28400, train loss: 0.3160 
+valid recall@20: 0.157942, valid ndcg@20: 0.087168, valid hitrate@20: 0.240581
+valid recall@50: 0.255165, valid ndcg@50: 0.100485, valid hitrate@50: 0.362800
+time interval: 19.1749 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 28600, train loss: 0.3133 
+valid recall@20: 0.159222, valid ndcg@20: 0.087491, valid hitrate@20: 0.242658
+valid recall@50: 0.254799, valid ndcg@50: 0.100193, valid hitrate@50: 0.362800
+time interval: 19.3098 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 28800, train loss: 0.3073 
+valid recall@20: 0.158427, valid ndcg@20: 0.088068, valid hitrate@20: 0.243548
+valid recall@50: 0.254945, valid ndcg@50: 0.100382, valid hitrate@50: 0.362504
+time interval: 19.4451 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 29000, train loss: 0.3076 
+valid recall@20: 0.159828, valid ndcg@20: 0.089492, valid hitrate@20: 0.246218
+valid recall@50: 0.252545, valid ndcg@50: 0.099127, valid hitrate@50: 0.358647
+time interval: 19.5804 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 29200, train loss: 0.3117 
+valid recall@20: 0.157173, valid ndcg@20: 0.087883, valid hitrate@20: 0.239691
+valid recall@50: 0.254070, valid ndcg@50: 0.098915, valid hitrate@50: 0.359241
+time interval: 19.7147 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 29400, train loss: 0.3129 
+valid recall@20: 0.158682, valid ndcg@20: 0.088953, valid hitrate@20: 0.242955
+valid recall@50: 0.254702, valid ndcg@50: 0.099944, valid hitrate@50: 0.364284
+time interval: 19.8495 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 29600, train loss: 0.3060 
+valid recall@20: 0.160992, valid ndcg@20: 0.090312, valid hitrate@20: 0.245921
+valid recall@50: 0.252292, valid ndcg@50: 0.099330, valid hitrate@50: 0.359834
+time interval: 19.9840 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 29800, train loss: 0.3051 
+valid recall@20: 0.160247, valid ndcg@20: 0.089400, valid hitrate@20: 0.245031
+valid recall@50: 0.251591, valid ndcg@50: 0.099405, valid hitrate@50: 0.359834
+time interval: 20.1184 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 30000, train loss: 0.3072 
+valid recall@20: 0.162437, valid ndcg@20: 0.091102, valid hitrate@20: 0.247998
+valid recall@50: 0.254155, valid ndcg@50: 0.100550, valid hitrate@50: 0.363097
+time interval: 20.2531 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 30200, train loss: 0.3054 
+valid recall@20: 0.160982, valid ndcg@20: 0.090553, valid hitrate@20: 0.246514
+valid recall@50: 0.254550, valid ndcg@50: 0.100334, valid hitrate@50: 0.362800
+time interval: 20.3877 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 30400, train loss: 0.3101 
+valid recall@20: 0.162800, valid ndcg@20: 0.090928, valid hitrate@20: 0.248591
+valid recall@50: 0.254488, valid ndcg@50: 0.100869, valid hitrate@50: 0.364580
+time interval: 20.5224 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 30600, train loss: 0.3045 
+valid recall@20: 0.160392, valid ndcg@20: 0.089767, valid hitrate@20: 0.246218
+valid recall@50: 0.251979, valid ndcg@50: 0.100133, valid hitrate@50: 0.363690
+time interval: 20.6569 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 30800, train loss: 0.2961 
+valid recall@20: 0.161297, valid ndcg@20: 0.090227, valid hitrate@20: 0.247108
+valid recall@50: 0.252396, valid ndcg@50: 0.099460, valid hitrate@50: 0.361614
+time interval: 20.7918 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 31000, train loss: 0.2981 
+valid recall@20: 0.161511, valid ndcg@20: 0.090514, valid hitrate@20: 0.248888
+valid recall@50: 0.255418, valid ndcg@50: 0.100289, valid hitrate@50: 0.364877
+time interval: 20.9272 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 31200, train loss: 0.2970 
+valid recall@20: 0.159384, valid ndcg@20: 0.089559, valid hitrate@20: 0.245328
+valid recall@50: 0.255678, valid ndcg@50: 0.099779, valid hitrate@50: 0.362504
+time interval: 21.0620 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 31400, train loss: 0.2974 
+valid recall@20: 0.161170, valid ndcg@20: 0.090440, valid hitrate@20: 0.247108
+valid recall@50: 0.254441, valid ndcg@50: 0.099814, valid hitrate@50: 0.363394
+time interval: 21.1969 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 31600, train loss: 0.2968 
+valid recall@20: 0.160560, valid ndcg@20: 0.090464, valid hitrate@20: 0.247998
+valid recall@50: 0.255524, valid ndcg@50: 0.099971, valid hitrate@50: 0.363690
+time interval: 21.3319 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 31800, train loss: 0.2976 
+valid recall@20: 0.161263, valid ndcg@20: 0.089399, valid hitrate@20: 0.245921
+valid recall@50: 0.255387, valid ndcg@50: 0.099853, valid hitrate@50: 0.361910
+time interval: 21.4672 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 32000, train loss: 0.2937 
+valid recall@20: 0.159711, valid ndcg@20: 0.089355, valid hitrate@20: 0.244438
+valid recall@50: 0.253725, valid ndcg@50: 0.099106, valid hitrate@50: 0.360724
+time interval: 21.6022 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 32200, train loss: 0.3044 
+valid recall@20: 0.160668, valid ndcg@20: 0.089511, valid hitrate@20: 0.247108
+valid recall@50: 0.254168, valid ndcg@50: 0.099359, valid hitrate@50: 0.360131
+time interval: 21.7374 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 32400, train loss: 0.2864 
+valid recall@20: 0.160513, valid ndcg@20: 0.089663, valid hitrate@20: 0.247108
+valid recall@50: 0.256449, valid ndcg@50: 0.099740, valid hitrate@50: 0.364580
+time interval: 21.8722 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 32600, train loss: 0.2868 
+valid recall@20: 0.159890, valid ndcg@20: 0.089890, valid hitrate@20: 0.245328
+valid recall@50: 0.256801, valid ndcg@50: 0.100205, valid hitrate@50: 0.365174
+time interval: 22.0080 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 32800, train loss: 0.2914 
+valid recall@20: 0.160170, valid ndcg@20: 0.088769, valid hitrate@20: 0.244735
+valid recall@50: 0.255333, valid ndcg@50: 0.099652, valid hitrate@50: 0.363987
+time interval: 22.1432 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 33000, train loss: 0.3005 
+valid recall@20: 0.164003, valid ndcg@20: 0.089946, valid hitrate@20: 0.249481
+valid recall@50: 0.254650, valid ndcg@50: 0.099452, valid hitrate@50: 0.361910
+time interval: 22.2780 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 33200, train loss: 0.2935 
+valid recall@20: 0.163249, valid ndcg@20: 0.090926, valid hitrate@20: 0.248888
+valid recall@50: 0.255985, valid ndcg@50: 0.099989, valid hitrate@50: 0.363690
+time interval: 22.4119 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 33400, train loss: 0.2883 
+valid recall@20: 0.162745, valid ndcg@20: 0.089228, valid hitrate@20: 0.245031
+valid recall@50: 0.256615, valid ndcg@50: 0.100653, valid hitrate@50: 0.365470
+time interval: 22.5478 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 33600, train loss: 0.2911 
+valid recall@20: 0.163271, valid ndcg@20: 0.088290, valid hitrate@20: 0.246514
+valid recall@50: 0.258938, valid ndcg@50: 0.100966, valid hitrate@50: 0.368140
+time interval: 22.6821 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 33800, train loss: 0.2926 
+valid recall@20: 0.165596, valid ndcg@20: 0.090917, valid hitrate@20: 0.250964
+valid recall@50: 0.257139, valid ndcg@50: 0.100639, valid hitrate@50: 0.364580
+time interval: 22.8173 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 34000, train loss: 0.2885 
+valid recall@20: 0.164445, valid ndcg@20: 0.090558, valid hitrate@20: 0.248888
+valid recall@50: 0.259618, valid ndcg@50: 0.101474, valid hitrate@50: 0.366953
+time interval: 22.9525 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 34200, train loss: 0.2959 
+valid recall@20: 0.165779, valid ndcg@20: 0.090429, valid hitrate@20: 0.250667
+valid recall@50: 0.259709, valid ndcg@50: 0.101601, valid hitrate@50: 0.369327
+time interval: 23.0883 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 34400, train loss: 0.2893 
+valid recall@20: 0.162981, valid ndcg@20: 0.089557, valid hitrate@20: 0.247108
+valid recall@50: 0.259658, valid ndcg@50: 0.100420, valid hitrate@50: 0.364877
+time interval: 23.2231 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 34600, train loss: 0.2874 
+valid recall@20: 0.162422, valid ndcg@20: 0.089948, valid hitrate@20: 0.247998
+valid recall@50: 0.258017, valid ndcg@50: 0.100758, valid hitrate@50: 0.364284
+time interval: 23.3581 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 34800, train loss: 0.2863 
+valid recall@20: 0.163885, valid ndcg@20: 0.090318, valid hitrate@20: 0.249184
+valid recall@50: 0.261762, valid ndcg@50: 0.101835, valid hitrate@50: 0.369030
+time interval: 23.4934 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 35000, train loss: 0.2848 
+valid recall@20: 0.161646, valid ndcg@20: 0.089983, valid hitrate@20: 0.248294
+valid recall@50: 0.259501, valid ndcg@50: 0.101015, valid hitrate@50: 0.367547
+time interval: 23.6284 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 35200, train loss: 0.2883 
+valid recall@20: 0.163667, valid ndcg@20: 0.090886, valid hitrate@20: 0.249778
+valid recall@50: 0.259056, valid ndcg@50: 0.100925, valid hitrate@50: 0.366953
+time interval: 23.7631 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 35400, train loss: 0.2874 
+valid recall@20: 0.162159, valid ndcg@20: 0.089455, valid hitrate@20: 0.245921
+valid recall@50: 0.258687, valid ndcg@50: 0.101265, valid hitrate@50: 0.368437
+time interval: 23.8977 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 35600, train loss: 0.2746 
+valid recall@20: 0.164455, valid ndcg@20: 0.090865, valid hitrate@20: 0.250371
+valid recall@50: 0.257700, valid ndcg@50: 0.100985, valid hitrate@50: 0.369327
+time interval: 24.0327 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 35800, train loss: 0.2789 
+valid recall@20: 0.162499, valid ndcg@20: 0.091033, valid hitrate@20: 0.248591
+valid recall@50: 0.257322, valid ndcg@50: 0.100618, valid hitrate@50: 0.365767
+time interval: 24.1671 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 36000, train loss: 0.2857 
+valid recall@20: 0.161704, valid ndcg@20: 0.089122, valid hitrate@20: 0.245031
+valid recall@50: 0.258803, valid ndcg@50: 0.101446, valid hitrate@50: 0.368733
+time interval: 24.3017 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 36200, train loss: 0.2788 
+valid recall@20: 0.162545, valid ndcg@20: 0.089990, valid hitrate@20: 0.246514
+valid recall@50: 0.259824, valid ndcg@50: 0.102144, valid hitrate@50: 0.371106
+time interval: 24.4366 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 36400, train loss: 0.2795 
+valid recall@20: 0.161437, valid ndcg@20: 0.088143, valid hitrate@20: 0.244438
+valid recall@50: 0.258280, valid ndcg@50: 0.101774, valid hitrate@50: 0.369920
+time interval: 24.5719 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 36600, train loss: 0.2806 
+valid recall@20: 0.162206, valid ndcg@20: 0.089765, valid hitrate@20: 0.248888
+valid recall@50: 0.260049, valid ndcg@50: 0.101779, valid hitrate@50: 0.369623
+time interval: 24.7065 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 36800, train loss: 0.2779 
+valid recall@20: 0.162253, valid ndcg@20: 0.089163, valid hitrate@20: 0.245624
+valid recall@50: 0.259278, valid ndcg@50: 0.102066, valid hitrate@50: 0.371996
+time interval: 24.8414 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 37000, train loss: 0.2779 
+valid recall@20: 0.163595, valid ndcg@20: 0.089862, valid hitrate@20: 0.247404
+valid recall@50: 0.259500, valid ndcg@50: 0.101508, valid hitrate@50: 0.369327
+time interval: 24.9760 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 37200, train loss: 0.2757 
+valid recall@20: 0.162674, valid ndcg@20: 0.088225, valid hitrate@20: 0.243251
+valid recall@50: 0.260930, valid ndcg@50: 0.102700, valid hitrate@50: 0.370217
+time interval: 25.1110 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 37400, train loss: 0.2807 
+valid recall@20: 0.162279, valid ndcg@20: 0.089049, valid hitrate@20: 0.244735
+valid recall@50: 0.261052, valid ndcg@50: 0.101528, valid hitrate@50: 0.368733
+time interval: 25.2459 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 37600, train loss: 0.2851 
+valid recall@20: 0.162256, valid ndcg@20: 0.088580, valid hitrate@20: 0.246811
+valid recall@50: 0.258501, valid ndcg@50: 0.101439, valid hitrate@50: 0.367547
+time interval: 25.3808 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 37800, train loss: 0.2700 
+valid recall@20: 0.160448, valid ndcg@20: 0.087923, valid hitrate@20: 0.243548
+valid recall@50: 0.256532, valid ndcg@50: 0.100494, valid hitrate@50: 0.365767
+time interval: 25.5156 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 38000, train loss: 0.2747 
+valid recall@20: 0.160319, valid ndcg@20: 0.088560, valid hitrate@20: 0.244438
+valid recall@50: 0.259898, valid ndcg@50: 0.102265, valid hitrate@50: 0.369030
+time interval: 25.6508 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 38200, train loss: 0.2779 
+valid recall@20: 0.161375, valid ndcg@20: 0.089715, valid hitrate@20: 0.246811
+valid recall@50: 0.258636, valid ndcg@50: 0.101067, valid hitrate@50: 0.367843
+time interval: 25.7854 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 38400, train loss: 0.2767 
+valid recall@20: 0.163738, valid ndcg@20: 0.091263, valid hitrate@20: 0.250667
+valid recall@50: 0.260179, valid ndcg@50: 0.102007, valid hitrate@50: 0.369327
+time interval: 25.9205 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 38600, train loss: 0.2671 
+valid recall@20: 0.162709, valid ndcg@20: 0.092455, valid hitrate@20: 0.251557
+valid recall@50: 0.261572, valid ndcg@50: 0.102829, valid hitrate@50: 0.372293
+time interval: 26.0554 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 38800, train loss: 0.2747 
+valid recall@20: 0.160415, valid ndcg@20: 0.091078, valid hitrate@20: 0.248294
+valid recall@50: 0.258204, valid ndcg@50: 0.101705, valid hitrate@50: 0.367547
+time interval: 26.1903 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 39000, train loss: 0.2753 
+valid recall@20: 0.162976, valid ndcg@20: 0.091386, valid hitrate@20: 0.250371
+valid recall@50: 0.260855, valid ndcg@50: 0.102637, valid hitrate@50: 0.371106
+time interval: 26.3241 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 39200, train loss: 0.2739 
+valid recall@20: 0.163999, valid ndcg@20: 0.090890, valid hitrate@20: 0.250074
+valid recall@50: 0.259547, valid ndcg@50: 0.101880, valid hitrate@50: 0.369920
+time interval: 26.4598 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 39400, train loss: 0.2746 
+valid recall@20: 0.164509, valid ndcg@20: 0.091372, valid hitrate@20: 0.250371
+valid recall@50: 0.261094, valid ndcg@50: 0.102626, valid hitrate@50: 0.372590
+time interval: 26.5937 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 39600, train loss: 0.2683 
+valid recall@20: 0.160539, valid ndcg@20: 0.089188, valid hitrate@20: 0.245328
+valid recall@50: 0.260547, valid ndcg@50: 0.101134, valid hitrate@50: 0.369623
+time interval: 26.7285 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 39800, train loss: 0.2721 
+valid recall@20: 0.163641, valid ndcg@20: 0.091560, valid hitrate@20: 0.249481
+valid recall@50: 0.259406, valid ndcg@50: 0.100936, valid hitrate@50: 0.367547
+time interval: 26.8630 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 40000, train loss: 0.2702 
+valid recall@20: 0.161912, valid ndcg@20: 0.089746, valid hitrate@20: 0.244438
+valid recall@50: 0.258601, valid ndcg@50: 0.101420, valid hitrate@50: 0.369327
+time interval: 26.9977 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 40200, train loss: 0.2726 
+valid recall@20: 0.163780, valid ndcg@20: 0.091032, valid hitrate@20: 0.248294
+valid recall@50: 0.261253, valid ndcg@50: 0.102795, valid hitrate@50: 0.375260
+time interval: 27.1325 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 40400, train loss: 0.2686 
+valid recall@20: 0.163830, valid ndcg@20: 0.089529, valid hitrate@20: 0.245921
+valid recall@50: 0.259943, valid ndcg@50: 0.102755, valid hitrate@50: 0.371996
+time interval: 27.2672 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 40600, train loss: 0.2660 
+valid recall@20: 0.163826, valid ndcg@20: 0.089898, valid hitrate@20: 0.247108
+valid recall@50: 0.260897, valid ndcg@50: 0.102331, valid hitrate@50: 0.371403
+time interval: 27.4021 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 40800, train loss: 0.2718 
+valid recall@20: 0.162777, valid ndcg@20: 0.091054, valid hitrate@20: 0.247108
+valid recall@50: 0.261293, valid ndcg@50: 0.102240, valid hitrate@50: 0.372886
+time interval: 27.5371 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 41000, train loss: 0.2665 
+valid recall@20: 0.164627, valid ndcg@20: 0.091760, valid hitrate@20: 0.249778
+valid recall@50: 0.260200, valid ndcg@50: 0.102184, valid hitrate@50: 0.372886
+time interval: 27.6719 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 41200, train loss: 0.2649 
+valid recall@20: 0.163101, valid ndcg@20: 0.089892, valid hitrate@20: 0.248294
+valid recall@50: 0.261325, valid ndcg@50: 0.102016, valid hitrate@50: 0.372293
+time interval: 27.8069 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 41400, train loss: 0.2660 
+valid recall@20: 0.167442, valid ndcg@20: 0.092150, valid hitrate@20: 0.252151
+valid recall@50: 0.261728, valid ndcg@50: 0.102028, valid hitrate@50: 0.371700
+time interval: 27.9418 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 41600, train loss: 0.2679 
+valid recall@20: 0.165224, valid ndcg@20: 0.091667, valid hitrate@20: 0.250964
+valid recall@50: 0.262845, valid ndcg@50: 0.103261, valid hitrate@50: 0.375556
+time interval: 28.0772 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 41800, train loss: 0.2671 
+valid recall@20: 0.166919, valid ndcg@20: 0.092255, valid hitrate@20: 0.253041
+valid recall@50: 0.261942, valid ndcg@50: 0.102373, valid hitrate@50: 0.373776
+time interval: 28.2122 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 42000, train loss: 0.2678 
+valid recall@20: 0.163113, valid ndcg@20: 0.090422, valid hitrate@20: 0.247404
+valid recall@50: 0.264728, valid ndcg@50: 0.103372, valid hitrate@50: 0.378226
+time interval: 28.3480 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 42200, train loss: 0.2687 
+valid recall@20: 0.162652, valid ndcg@20: 0.089883, valid hitrate@20: 0.247108
+valid recall@50: 0.262154, valid ndcg@50: 0.103027, valid hitrate@50: 0.374370
+time interval: 28.4833 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 42400, train loss: 0.2604 
+valid recall@20: 0.165388, valid ndcg@20: 0.091010, valid hitrate@20: 0.251261
+valid recall@50: 0.262408, valid ndcg@50: 0.102562, valid hitrate@50: 0.376150
+time interval: 28.6181 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 42600, train loss: 0.2662 
+valid recall@20: 0.163632, valid ndcg@20: 0.089872, valid hitrate@20: 0.248591
+valid recall@50: 0.262238, valid ndcg@50: 0.102612, valid hitrate@50: 0.374963
+time interval: 28.7528 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 42800, train loss: 0.2737 
+valid recall@20: 0.164151, valid ndcg@20: 0.090091, valid hitrate@20: 0.250074
+valid recall@50: 0.259360, valid ndcg@50: 0.101713, valid hitrate@50: 0.373183
+time interval: 28.8881 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 43000, train loss: 0.2628 
+valid recall@20: 0.162722, valid ndcg@20: 0.090371, valid hitrate@20: 0.248888
+valid recall@50: 0.261251, valid ndcg@50: 0.101979, valid hitrate@50: 0.374370
+time interval: 29.0233 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 43200, train loss: 0.2627 
+valid recall@20: 0.163601, valid ndcg@20: 0.091466, valid hitrate@20: 0.252447
+valid recall@50: 0.260012, valid ndcg@50: 0.102389, valid hitrate@50: 0.375556
+time interval: 29.1585 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 43400, train loss: 0.2607 
+valid recall@20: 0.162266, valid ndcg@20: 0.090103, valid hitrate@20: 0.248591
+valid recall@50: 0.263929, valid ndcg@50: 0.102493, valid hitrate@50: 0.376743
+time interval: 29.2932 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 43600, train loss: 0.2617 
+valid recall@20: 0.162625, valid ndcg@20: 0.090809, valid hitrate@20: 0.249184
+valid recall@50: 0.264908, valid ndcg@50: 0.102692, valid hitrate@50: 0.377039
+time interval: 29.4285 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 43800, train loss: 0.2647 
+valid recall@20: 0.159476, valid ndcg@20: 0.088799, valid hitrate@20: 0.244438
+valid recall@50: 0.262742, valid ndcg@50: 0.102085, valid hitrate@50: 0.373480
+time interval: 29.5640 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 44000, train loss: 0.2549 
+valid recall@20: 0.160112, valid ndcg@20: 0.089185, valid hitrate@20: 0.245624
+valid recall@50: 0.260882, valid ndcg@50: 0.101057, valid hitrate@50: 0.370513
+time interval: 29.6994 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 44200, train loss: 0.2622 
+valid recall@20: 0.161841, valid ndcg@20: 0.090216, valid hitrate@20: 0.247701
+valid recall@50: 0.261038, valid ndcg@50: 0.100792, valid hitrate@50: 0.372590
+time interval: 29.8344 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 44400, train loss: 0.2594 
+valid recall@20: 0.164413, valid ndcg@20: 0.091081, valid hitrate@20: 0.250371
+valid recall@50: 0.262869, valid ndcg@50: 0.101128, valid hitrate@50: 0.372590
+time interval: 29.9698 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 44600, train loss: 0.2576 
+valid recall@20: 0.160360, valid ndcg@20: 0.089513, valid hitrate@20: 0.245624
+valid recall@50: 0.262396, valid ndcg@50: 0.101056, valid hitrate@50: 0.371403
+time interval: 30.1045 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 44800, train loss: 0.2569 
+valid recall@20: 0.160396, valid ndcg@20: 0.089759, valid hitrate@20: 0.245624
+valid recall@50: 0.261540, valid ndcg@50: 0.101742, valid hitrate@50: 0.370810
+time interval: 30.2382 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 45000, train loss: 0.2558 
+valid recall@20: 0.160879, valid ndcg@20: 0.089373, valid hitrate@20: 0.244438
+valid recall@50: 0.258688, valid ndcg@50: 0.101281, valid hitrate@50: 0.369327
+time interval: 30.3744 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 45200, train loss: 0.2623 
+valid recall@20: 0.161148, valid ndcg@20: 0.089716, valid hitrate@20: 0.245921
+valid recall@50: 0.262542, valid ndcg@50: 0.102631, valid hitrate@50: 0.374073
+time interval: 30.5082 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 45400, train loss: 0.2616 
+valid recall@20: 0.159447, valid ndcg@20: 0.088875, valid hitrate@20: 0.244735
+valid recall@50: 0.260089, valid ndcg@50: 0.101630, valid hitrate@50: 0.369623
+time interval: 30.6431 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 45600, train loss: 0.2602 
+valid recall@20: 0.158868, valid ndcg@20: 0.087707, valid hitrate@20: 0.243251
+valid recall@50: 0.261178, valid ndcg@50: 0.101425, valid hitrate@50: 0.371403
+time interval: 30.7780 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 45800, train loss: 0.2574 
+valid recall@20: 0.159411, valid ndcg@20: 0.088015, valid hitrate@20: 0.242658
+valid recall@50: 0.263565, valid ndcg@50: 0.103287, valid hitrate@50: 0.376743
+time interval: 30.9127 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 46000, train loss: 0.2649 
+valid recall@20: 0.158268, valid ndcg@20: 0.086918, valid hitrate@20: 0.239098
+valid recall@50: 0.260830, valid ndcg@50: 0.101687, valid hitrate@50: 0.373776
+time interval: 31.0476 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 46200, train loss: 0.2565 
+valid recall@20: 0.159339, valid ndcg@20: 0.087112, valid hitrate@20: 0.241768
+valid recall@50: 0.261556, valid ndcg@50: 0.102096, valid hitrate@50: 0.374370
+time interval: 31.1821 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 46400, train loss: 0.2581 
+valid recall@20: 0.158627, valid ndcg@20: 0.088135, valid hitrate@20: 0.242361
+valid recall@50: 0.260476, valid ndcg@50: 0.102503, valid hitrate@50: 0.373480
+time interval: 31.3173 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 46600, train loss: 0.2556 
+valid recall@20: 0.159192, valid ndcg@20: 0.088360, valid hitrate@20: 0.242955
+valid recall@50: 0.260543, valid ndcg@50: 0.102164, valid hitrate@50: 0.373776
+time interval: 31.4533 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 46800, train loss: 0.2550 
+valid recall@20: 0.159508, valid ndcg@20: 0.087664, valid hitrate@20: 0.243251
+valid recall@50: 0.261125, valid ndcg@50: 0.101892, valid hitrate@50: 0.371106
+time interval: 31.5889 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 47000, train loss: 0.2542 
+valid recall@20: 0.159194, valid ndcg@20: 0.087713, valid hitrate@20: 0.242658
+valid recall@50: 0.258940, valid ndcg@50: 0.100885, valid hitrate@50: 0.368437
+time interval: 31.7237 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 47200, train loss: 0.2565 
+valid recall@20: 0.160499, valid ndcg@20: 0.088965, valid hitrate@20: 0.241768
+valid recall@50: 0.258780, valid ndcg@50: 0.101185, valid hitrate@50: 0.369327
+time interval: 31.8589 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 47400, train loss: 0.2488 
+valid recall@20: 0.159341, valid ndcg@20: 0.087782, valid hitrate@20: 0.242658
+valid recall@50: 0.257754, valid ndcg@50: 0.100847, valid hitrate@50: 0.367547
+time interval: 31.9940 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 47600, train loss: 0.2591 
+valid recall@20: 0.158461, valid ndcg@20: 0.089097, valid hitrate@20: 0.244141
+valid recall@50: 0.259046, valid ndcg@50: 0.101502, valid hitrate@50: 0.369920
+time interval: 32.1287 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 47800, train loss: 0.2492 
+valid recall@20: 0.161228, valid ndcg@20: 0.089552, valid hitrate@20: 0.246218
+valid recall@50: 0.256942, valid ndcg@50: 0.100095, valid hitrate@50: 0.367250
+time interval: 32.2646 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 48000, train loss: 0.2536 
+valid recall@20: 0.162533, valid ndcg@20: 0.089690, valid hitrate@20: 0.247404
+valid recall@50: 0.259175, valid ndcg@50: 0.101353, valid hitrate@50: 0.368733
+time interval: 32.3999 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 48200, train loss: 0.2589 
+valid recall@20: 0.163437, valid ndcg@20: 0.090768, valid hitrate@20: 0.249481
+valid recall@50: 0.259026, valid ndcg@50: 0.101058, valid hitrate@50: 0.369030
+time interval: 32.5348 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 48400, train loss: 0.2481 
+valid recall@20: 0.164036, valid ndcg@20: 0.090274, valid hitrate@20: 0.249481
+valid recall@50: 0.258631, valid ndcg@50: 0.100422, valid hitrate@50: 0.368437
+time interval: 32.6699 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 48600, train loss: 0.2482 
+valid recall@20: 0.163691, valid ndcg@20: 0.090713, valid hitrate@20: 0.250964
+valid recall@50: 0.257457, valid ndcg@50: 0.101414, valid hitrate@50: 0.369920
+time interval: 32.8050 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 48800, train loss: 0.2455 
+valid recall@20: 0.159464, valid ndcg@20: 0.088431, valid hitrate@20: 0.243845
+valid recall@50: 0.257787, valid ndcg@50: 0.102011, valid hitrate@50: 0.370810
+time interval: 32.9399 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 49000, train loss: 0.2507 
+valid recall@20: 0.163183, valid ndcg@20: 0.089219, valid hitrate@20: 0.248294
+valid recall@50: 0.258562, valid ndcg@50: 0.101542, valid hitrate@50: 0.371106
+time interval: 33.0747 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 49200, train loss: 0.2438 
+valid recall@20: 0.160894, valid ndcg@20: 0.087941, valid hitrate@20: 0.241471
+valid recall@50: 0.260581, valid ndcg@50: 0.101828, valid hitrate@50: 0.373480
+time interval: 33.2097 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 49400, train loss: 0.2480 
+valid recall@20: 0.163810, valid ndcg@20: 0.090089, valid hitrate@20: 0.248294
+valid recall@50: 0.261348, valid ndcg@50: 0.102082, valid hitrate@50: 0.372293
+time interval: 33.3450 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 49600, train loss: 0.2476 
+valid recall@20: 0.162353, valid ndcg@20: 0.089701, valid hitrate@20: 0.245921
+valid recall@50: 0.261195, valid ndcg@50: 0.102398, valid hitrate@50: 0.371700
+time interval: 33.4799 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 49800, train loss: 0.2473 
+valid recall@20: 0.165528, valid ndcg@20: 0.090759, valid hitrate@20: 0.250074
+valid recall@50: 0.263608, valid ndcg@50: 0.103131, valid hitrate@50: 0.375556
+time interval: 33.6148 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 50000, train loss: 0.2467 
+valid recall@20: 0.163553, valid ndcg@20: 0.089445, valid hitrate@20: 0.245624
+valid recall@50: 0.261424, valid ndcg@50: 0.103299, valid hitrate@50: 0.375260
+time interval: 33.7500 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 50200, train loss: 0.2510 
+valid recall@20: 0.161806, valid ndcg@20: 0.089000, valid hitrate@20: 0.245328
+valid recall@50: 0.260028, valid ndcg@50: 0.102071, valid hitrate@50: 0.371106
+time interval: 33.8848 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 50400, train loss: 0.2456 
+valid recall@20: 0.160345, valid ndcg@20: 0.088830, valid hitrate@20: 0.244735
+valid recall@50: 0.258712, valid ndcg@50: 0.101887, valid hitrate@50: 0.369327
+time interval: 34.0198 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 50600, train loss: 0.2461 
+valid recall@20: 0.160876, valid ndcg@20: 0.089414, valid hitrate@20: 0.245624
+valid recall@50: 0.261101, valid ndcg@50: 0.102123, valid hitrate@50: 0.372886
+time interval: 34.1531 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 50800, train loss: 0.2537 
+valid recall@20: 0.161167, valid ndcg@20: 0.089692, valid hitrate@20: 0.245624
+valid recall@50: 0.259587, valid ndcg@50: 0.101885, valid hitrate@50: 0.371700
+time interval: 34.2891 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 51000, train loss: 0.2551 
+valid recall@20: 0.158377, valid ndcg@20: 0.087880, valid hitrate@20: 0.241768
+valid recall@50: 0.259868, valid ndcg@50: 0.101833, valid hitrate@50: 0.372886
+time interval: 34.4226 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 51200, train loss: 0.2431 
+valid recall@20: 0.158625, valid ndcg@20: 0.087325, valid hitrate@20: 0.240878
+valid recall@50: 0.259032, valid ndcg@50: 0.102545, valid hitrate@50: 0.371403
+time interval: 34.5572 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 51400, train loss: 0.2521 
+valid recall@20: 0.160127, valid ndcg@20: 0.087665, valid hitrate@20: 0.242955
+valid recall@50: 0.260588, valid ndcg@50: 0.103032, valid hitrate@50: 0.373183
+time interval: 34.6922 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 51600, train loss: 0.2483 
+valid recall@20: 0.159171, valid ndcg@20: 0.087452, valid hitrate@20: 0.241471
+valid recall@50: 0.263698, valid ndcg@50: 0.103709, valid hitrate@50: 0.377336
+time interval: 34.8273 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 51800, train loss: 0.2473 
+valid recall@20: 0.160085, valid ndcg@20: 0.088701, valid hitrate@20: 0.244438
+valid recall@50: 0.260592, valid ndcg@50: 0.102872, valid hitrate@50: 0.375260
+time interval: 34.9622 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 52000, train loss: 0.2492 
+valid recall@20: 0.161368, valid ndcg@20: 0.089221, valid hitrate@20: 0.245328
+valid recall@50: 0.262293, valid ndcg@50: 0.102969, valid hitrate@50: 0.374666
+time interval: 35.0971 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 52200, train loss: 0.2408 
+valid recall@20: 0.160894, valid ndcg@20: 0.088353, valid hitrate@20: 0.245031
+valid recall@50: 0.261092, valid ndcg@50: 0.103175, valid hitrate@50: 0.374963
+time interval: 35.2318 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 52400, train loss: 0.2456 
+valid recall@20: 0.160454, valid ndcg@20: 0.088865, valid hitrate@20: 0.242955
+valid recall@50: 0.263442, valid ndcg@50: 0.103756, valid hitrate@50: 0.378523
+time interval: 35.3663 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 52600, train loss: 0.2429 
+valid recall@20: 0.160285, valid ndcg@20: 0.087703, valid hitrate@20: 0.241768
+valid recall@50: 0.260713, valid ndcg@50: 0.102510, valid hitrate@50: 0.373183
+time interval: 35.5009 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 52800, train loss: 0.2485 
+valid recall@20: 0.161430, valid ndcg@20: 0.088855, valid hitrate@20: 0.242955
+valid recall@50: 0.259767, valid ndcg@50: 0.102164, valid hitrate@50: 0.373183
+time interval: 35.6361 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 53000, train loss: 0.2444 
+valid recall@20: 0.160430, valid ndcg@20: 0.089691, valid hitrate@20: 0.243548
+valid recall@50: 0.263792, valid ndcg@50: 0.103881, valid hitrate@50: 0.379709
+time interval: 35.7709 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 53200, train loss: 0.2438 
+valid recall@20: 0.160121, valid ndcg@20: 0.088993, valid hitrate@20: 0.242658
+valid recall@50: 0.263244, valid ndcg@50: 0.104180, valid hitrate@50: 0.379413
+time interval: 35.9057 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 53400, train loss: 0.2415 
+valid recall@20: 0.159648, valid ndcg@20: 0.088926, valid hitrate@20: 0.241768
+valid recall@50: 0.264254, valid ndcg@50: 0.103755, valid hitrate@50: 0.378523
+time interval: 36.0406 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 53600, train loss: 0.2469 
+valid recall@20: 0.159883, valid ndcg@20: 0.088820, valid hitrate@20: 0.241471
+valid recall@50: 0.263213, valid ndcg@50: 0.103177, valid hitrate@50: 0.375853
+time interval: 36.1760 min
+rocket_PAMI_dropout0.2_wdc0_e1
+iter: 53800, train loss: 0.2399 
+valid recall@20: 0.159260, valid ndcg@20: 0.089307, valid hitrate@20: 0.242361
+valid recall@50: 0.263616, valid ndcg@50: 0.104512, valid hitrate@50: 0.377929
+early stopping!
+Loss曲线已保存至: best_model/rocket_PAMI_dropout0.2_wdc0_e1/loss_curve.png
+model loaded from best_model/rocket_PAMI_dropout0.2_wdc0_e1/
+Item embeddings 已保存至 best_model/rocket_PAMI_dropout0.2_wdc0_e1/item_embeddings.npy, 形状: (90149, 64)
+User embeddings 已保存至 best_model/rocket_PAMI_dropout0.2_wdc0_e1/user_embeddings.npy, 形状: (70313, 64)

@@ -128,13 +128,6 @@ def evaluate(model, test_data, hidden_size, device, k=20, coef=None, item_cate_m
         user_embs = user_embs.cpu().detach().numpy()
 #        print(user_embs.shape)    #[B,num_interest,64]
         gpu_index = gpu_indexs[0] 
-#        print(item_att_w.shape)# torch.Size([512, 4, 20])
-#        exceed_5_count = 0  # 记录 distribution 最大值超过 topN 一半的用户数
-#        exceed_7_count = 0
-#        exceed_9_count = 0
-#        total_users = len(targets)  # 总用户数
-#        print(item_att_w)
-#        time.sleep(2)
         # 用内积来近邻搜索，实际是内积的值越大，向量越近（越相似）
         if len(user_embs.shape) == 2: # 非多兴趣模型评估
 #            print(user_embs.shape)
@@ -267,6 +260,7 @@ def train(device, train_file, valid_file, test_file, dataset, model_type, item_c
     # prepare data
     train_data = get_DataLoader(train_file, batch_size, seq_len, train_flag=1, args=args)
     valid_data = get_DataLoader(valid_file, batch_size, seq_len, train_flag=0, args=args)
+    test_data = get_DataLoader(test_file, batch_size, seq_len, train_flag=0, args=args)
 
     model = get_model(dataset, model_type, item_count, user_count, batch_size, hidden_size, interest_num, seq_len, args=args,device=device)
     model = model.to(device)
@@ -298,6 +292,7 @@ def train(device, train_file, valid_file, test_file, dataset, model_type, item_c
             self.log.flush()
     if not os.path.exists(best_model_path):
         os.makedirs(best_model_path)
+
     log_file = os.path.join(best_model_path, 'train.log')
     old_stdout = sys.stdout
     sys.stdout = Logger(log_file)
@@ -366,7 +361,6 @@ def train(device, train_file, valid_file, test_file, dataset, model_type, item_c
                     if metrics != {}:
                         log_str += ', '.join(['valid ' + key + '@20' + ': %.6f' % value for key, value in metrics.items()])
                     print(exp_name)
-    #                print(log_str)
 
                     model.eval()
                     metrics = evaluate(model, valid_data, hidden_size, device, 50, args=args)
@@ -424,11 +418,20 @@ def train(device, train_file, valid_file, test_file, dataset, model_type, item_c
         model.eval()
 
         # 训练结束后用valid_data测试一次
-    #    metrics = evaluate(model, valid_data, hidden_size, device, 20, args=args)
-    #    print(', '.join(['Valid ' + key + ': %.6f' % value for key, value in metrics.items()]))
-    #    metrics = evaluate(model, valid_data, hidden_size, device, 50, args=args)
-    #    print(', '.join(['Valid ' + key + ': %.6f' % value for key, value in metrics.items()]))
-    #    
+        print("Valid results:")
+        metrics = evaluate(model, valid_data, hidden_size, device, 20, args=args)
+        print(', '.join(['Valid ' + key + '@20' + ': %.6f' % value for key, value in metrics.items()]))
+        metrics = evaluate(model, valid_data, hidden_size, device, 50, args=args)
+        print(', '.join(['Valid ' + key + '@50' + ': %.6f' % value for key, value in metrics.items()]))
+
+        # 训练结束后用test_data测试一次
+        print("Test results:")
+        metrics = evaluate(model, test_data, hidden_size, device, 20, args=args)
+        print(', '.join(['Test ' + key + '@20' + ': %.6f' % value for key, value in metrics.items()]))
+        metrics = evaluate(model, test_data, hidden_size, device, 50, args=args)
+        print(', '.join(['Test ' + key + '@50' + ': %.6f' % value for key, value in metrics.items()]))
+
+        # 保存模型
         if hasattr(model, 'item_embeddings'):
             item_embeddings = model.item_embeddings.weight.cpu().detach().numpy()
         if hasattr(model, 'user_embeddings'):

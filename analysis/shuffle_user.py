@@ -9,8 +9,8 @@ from collections import defaultdict
 # 添加项目根目录到sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from utils import get_DataLoader, get_exp_name, get_model, load_model, to_tensor, load_item_cate
-from evalution_copy import evaluate
+from utils import *
+from evalution import evaluate
 
 def parse_args():
     parser = argparse.ArgumentParser(description="测试用户嵌入打乱对模型性能的影响")

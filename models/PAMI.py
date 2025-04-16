@@ -26,16 +26,21 @@ class PAMI(BasicModel):
             nn.Tanh()
         )
 
-        
         # 物品注意力层
         self.item_att_layer = nn.Linear(self.hidden_size * 4, self.num_heads, bias=False)
         
         self.alpha = args.alpha if args is not None else 0.5
         self.reset_parameters()
 
-    def forward(self, item_list, user_list, label_list, mask, times, device, train=True):
+    def get_embeddings(self, item_list, user_list):
+        """获取物品和用户的嵌入"""
         item_eb = self.item_embeddings(item_list)    # 物品嵌入
         user_eb = self.user_embeddings(user_list)    # 用户嵌入
+        return item_eb, user_eb
+
+    def forward(self, item_list, user_list, label_list, mask, times, device, train=True):
+        item_eb, user_eb = self.get_embeddings(item_list, user_list)
+
         item_eb = item_eb * torch.reshape(mask, (-1, self.seq_len, 1))
         if train:
             label_eb = self.item_embeddings(label_list)

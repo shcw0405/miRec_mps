@@ -119,12 +119,14 @@ if __name__ == '__main__':
         1: 'log'
     }
     
+    # 日志重定向：仅在训练时
     if args.p == 'train':
         train(device=device, train_file=train_file, valid_file=valid_file, test_file=test_file, 
                 dataset=dataset, model_type=args.model_type, item_count=item_count, user_count=user_count, batch_size=batch_size, 
                 lr=args.learning_rate, seq_len=seq_len, hidden_size=args.hidden_size, 
                 interest_num=args.interest_num, topN=args.topN, max_iter=args.max_iter, test_iter=test_iter, 
                 decay_step=args.lr_dc_step, lr_decay=args.lr_dc, patience=args.patience, exp=args.exp, args=args)
+
     elif args.p == 'test':
         test(device=device, test_file=test_file, cate_file=cate_file, dataset=dataset, model_type=args.model_type, 
                 item_count=item_count, user_count = user_count, batch_size=batch_size, lr=args.learning_rate, seq_len=seq_len, 
@@ -133,9 +135,13 @@ if __name__ == '__main__':
         output(device=device, test_file=test_file, dataset=dataset, model_type=args.model_type, item_count=item_count, user_count=user_count,
                 batch_size=batch_size, lr=args.learning_rate, seq_len=seq_len, hidden_size=args.hidden_size, 
                 interest_num=args.interest_num, topN=args.topN, exp=args.exp, args=args)
+    elif args.p == 'visualize':
+        from visualize import main as visualize_main
+        sys.argv = [sys.argv[0]] + [f'--{k}={v}' for k, v in vars(args).items() if v is not None]
+        visualize_main()
     else:
         print('do nothing...')
 
 
 
-    
+

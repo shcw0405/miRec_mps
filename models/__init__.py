@@ -7,3 +7,4 @@ from .PAMI import *
 from .Pop import *
 from .Re4 import *
 from .REMI import *
+from .REMIuseremb import *

@@ -12,11 +12,16 @@ def get_exp_name(args, save=True, exp='e1'):
     """
 
     # 基础参数（所有模型都需要的）
+    # 智能格式化weight_decay，去掉无意义的小数点
+    if float(args.weight_decay).is_integer():
+        wdc_str = str(int(args.weight_decay))
+    else:
+        wdc_str = str(args.weight_decay)
     base_params = [
         args.dataset,
         args.model_type,
         'dropout'+str(args.dropout),
-        'wdc'+str(args.weight_decay)
+        'wdc'+wdc_str
     ]
     
     # 根据模型类型添加特定参数
@@ -37,7 +42,7 @@ def get_exp_name(args, save=True, exp='e1'):
             'top'+str(args.topN)
         ])
 
-    elif args.model_type in ['REMI']:
+    elif args.model_type in ['REMI','REMIuseremb']:
         model_specific_params.extend([
             'd'+str(args.hidden_size),
             'top'+str(args.topN),

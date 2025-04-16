@@ -12,7 +12,7 @@ from models import *
 def get_parser():
     
     parser = argparse.ArgumentParser()
-    parser.add_argument('-p', type=str, default='train', help='train | test') # train or test or output
+    parser.add_argument('--p', type=str, default='train', help='train | test') # train or test or output
     parser.add_argument('--dataset', type=str, default='book', help='book | taobao') # 数据集
     parser.add_argument('--random_seed', type=int, default=2021)
     parser.add_argument('--hidden_size', type=int, default=64) # 隐藏层维度、嵌入维度
@@ -41,9 +41,6 @@ def get_parser():
 
     # For PAMI
     parser.add_argument('--alpha', type=float, default=0.5)
-    
-    # 控制是否使用固定目录下的预训练模型
-    parser.add_argument('--full', action='store_true', help='使用best_model/1fullytrain/目录下的预训练模型')
     
     return parser
 
